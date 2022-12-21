@@ -1,0 +1,1083 @@
+{
+    "Apple": {
+        "GPT::how to represent Apple using gestures": "\n\nAn apple could be represented using a gesture such as a simple pat on the head.",
+        "GPT::how to represent Apple using hands": "\n\nTo represent Apple using hands, you could make the shape of an apple using your hands, or you could make the letters \"A\" and \"P\" using your fingers.",
+        "GPT::how to represent Apple using human body": "\n\nApple could be represented by a human body in many ways. One way would be to have a person wearing an Apple logo t-shirt and jeans. Another way would be to have a person with an Apple tattoo on their arm.",
+        "strategy 1": {
+            "Action Name": "biting an apple",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Apple/APPLE_silentgesture.mp4"
+        }
+    },
+    "House": {
+        "GPT::how to represent House using gestures": "\n\nOne way to represent a house using gestures is to hold your hands up in front of you, palms facing each other, and then move them apart to form the shape of a square.",
+        "GPT::how to represent House using hands": "\n\nThere is no one way to represent a house using hands.",
+        "GPT::how to represent House using human body": "\n\nA House can be represented using a human body by having a person stand with their arms outstretched to represent the walls of the House, and then having someone else stand on their shoulders to represent the roof.",
+        "strategy 1": {
+            "Action Name": "drawing",
+            "Ortega Taxonomy Class": "drawing",
+            "video": "./ortega-videos/House/HOUSE_silentgesture.mp4"
+        }
+    },
+    "Ice cream": {
+        "GPT::how to represent Ice cream using gestures": "\n\nTo represent ice cream using gestures, you can pretend to hold an ice cream cone in one hand and make a scooping motion with the other.",
+        "GPT::how to represent Ice cream using hands": "\n\nBy making a fist and then extending the pinky and thumb.",
+        "GPT::how to represent Ice cream using human body": "\n\nThere are many ways to represent Ice cream using human body. Here are some examples:\n\n1. Use your hands to form a cup shape and then fill it with imaginary ice cream.\n\n2. Stick out your tongue and pretend to lick an ice cream cone.\n\n3. Use your arms to hug an imaginary pint of ice cream.\n\n4. Put your hands in your pockets and pretend to eat some ice cream that's hidden in them.\n\n5. Make a sad face and pretend to cry because you just finished your last bite of ice cream.",
+        "strategy 1": {
+            "Action Name": "licking",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Ice cream/ICE-CREAM_silentgesture.mp4"
+        }
+    },
+    "Penguin": {
+        "GPT::how to represent Penguin using gestures": "\n\nPenguin can be represented using gestures by flapping the arms up and down to represent the wings, holding the arms close to the body to represent the flippers, and holding the arms out to the sides and waddling to represent the penguin's walk.",
+        "GPT::how to represent Penguin using hands": "\n\nOne way to represent a penguin using hands would be to place the palms of both hands together so that the thumbs and fingers touch to form a beak. The other hand can be placed underneath to form the body.",
+        "GPT::how to represent Penguin using human body": "\n\nPenguins can be represented using human body by either dressing up in a penguin costume or by painting their body to look like a penguin. To dress up as a penguin, one can wear a black and white suit with a white belly and a black head. To paint their body like a penguin, one can use black and white paint to create a penguin belly and a black paint to create a penguin head.",
+        "strategy 1": {
+            "Action Name": "wobbling",
+            "Ortega Taxonomy Class": "personification",
+            "video": "./ortega-videos/Penguin/PENGUIN_silentgesture.mp4"
+        }
+    },
+    "Screwdriver": {
+        "GPT::how to represent Screwdriver using gestures": "\n\nOne way to represent screwdriver using gestures would be to hold up one hand in front of you with the index and middle fingers pointing out and the thumb extended. Then, twist your wrist clockwise a few times.",
+        "GPT::how to represent Screwdriver using hands": "\n\nTo represent screwdriver using hands, extend the index and middle fingers, and then cross them at the tips.",
+        "GPT::how to represent Screwdriver using human body": "\n\nA person can represent a screwdriver by holding their arm out straight with their hand closed in a fist. The other hand can then be used to twist the fist as if it were a screwdriver.",
+        "strategy 1": {
+            "Action Name": "twisting",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Screwdriver/SCREWDRIVER_silentgesture.mp4"
+        }
+    },
+    "To fly": {
+        "GPT::how to represent To fly using gestures": "\n\nA person could gesture flying by putting their arms out to their sides and flapping them up and down.",
+        "GPT::how to represent To fly using hands": "\n\nTo represent flying using hands, first extend both arms out to the sides, then move your hands up and down in a flapping motion.",
+        "GPT::how to represent To fly using human body": " parts\n\nOne arm extended up and out like a wing, the other at the side; both legs extended back.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "flying",
+            "Ortega Taxonomy Class": "personification",
+            "video": "./ortega-videos/To fly/TO-FLY_silentgesture.mp4"
+        }
+    },
+    "To hammer": {
+        "GPT::how to represent To hammer using gestures": "\n\nTo hammer using gestures, you can use a clenched fist to represent the hammer and then use an up and down motion to represent the hammering.",
+        "GPT::how to represent To hammer using hands": "\n\nOne way to represent hammering using your hands is to make a fist with one hand and then tap the knuckles of your fist with the other hand.",
+        "GPT::how to represent To hammer using human body": "\n\nYou can represent hammering using your human body by making fists with your hands and banging them together.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "hammering",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To hammer/TO-HAMMER_silentgesture.mp4"
+        }
+    },
+    "To jog": {
+        "GPT::how to represent To jog using gestures": "\n\nJogging can be represented using a gesture where the person stands up straight and thenpretends to run in place.",
+        "GPT::how to represent To jog using hands": "?\n\nTo jog using hands, the individual would need to extend their arms out to the sides and move them up and down in a rhythmical motion.",
+        "GPT::how to represent To jog using human body": "\n\nJogging is a slow, relaxed form of running.To jog using human body, you would start by standing tall with your feet shoulder-width apart and your hands at your sides. Take a deep breath in and then exhale as you begin to slowly lift your left leg off the ground. As you lift your leg, bend your knee and kick your heel back towards your butt. As you bring your leg back down, land softly on the ball of your foot and roll through to your toes. Repeat this motion with your right leg and continue alternating legs as you jog forward.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "jogging",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To jog/TO-JOG_silentgesture.mp4"
+        }
+    },
+    "To shout": {
+        "GPT::how to represent To shout using gestures": "\n\nTo shout using gestures, you can put your hands around your mouth like a megaphone and then wave them back and forth.",
+        "GPT::how to represent To shout using hands": "\n\nTo shout using hands, hold up both hands and wave them in the air.",
+        "GPT::how to represent To shout using human body": " gesture\n\nThe gesture for shouting is typically to raise both hands in the air and open the mouth wide.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "shouting",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To shout/TO-SHOUT_silentgesture.mp4"
+        }
+    },
+    "To smoke": {
+        "GPT::how to represent To smoke using gestures": "\n\nTo smoke using gestures, one would typically pretend to hold a cigarette between their thumb and first two fingers, and then bring it up to their lips. They would then pretend to inhale the smoke and then exhale it.",
+        "GPT::how to represent To smoke using hands": "\n\nTo represent smoking using hands, make a fist with your hand and put it up to your mouth. Place your other hand on top of the first hand and pretend to inhale and exhale.",
+        "GPT::how to represent To smoke using human body": "\n\nYou could raise one hand in the air and pretend to hold a cigarette. Then use your other hand to make a \"smoking\" motion.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "smoking",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To smoke/TO-SMOKE_silentgesture.mp4"
+        }
+    },
+    "To swim": {
+        "GPT::how to represent To swim using gestures": "\n\nThe gesture for swimming is holding your arms out in front of you and moving your hands in a circular motion.",
+        "GPT::how to represent To swim using hands": "\n\nTo swim using hands, make a fist with both hands and move them in a downward swimming motion.",
+        "GPT::how to represent To swim using human body": "\n\n\n\nTo swim using human body, you would need to move your arms and legs in a way that simulates the breaststroke or freestyle swimming stroke.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "swimming",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "./ortega-videos/To swim/TO-SWIM_silentgesture.mp4"
+        }
+    },
+    "To wring": {
+        "GPT::how to represent To wring using gestures": "\n\nTo wring out using gestures, first make a fist with one hand. Take your other hand and hold it above your fist. twist your wrists back and forth to represent wringing out liquid.",
+        "GPT::how to represent To wring using hands": "\n\nTo wring using hands, interlock your fingers and twist your hands in opposite directions.",
+        "GPT::how to represent To wring using human body": " parts\n\nTo represent wringing using human body parts, you can use your hands to twist an imaginary object.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "wringing",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To wring/TO-WRING_silentgesture.mp4"
+        }
+    },
+    "Umbrella": {
+        "GPT::how to represent Umbrella using gestures": "\n\nAn umbrella can be represented using the gesture for \"open\" \u2013 for example, opening one's arms up wide.",
+        "GPT::how to represent Umbrella using hands": "\n\nOne hand can be placed over the other to form an umbrella shape.",
+        "GPT::how to represent Umbrella using human body": "\n\nUmbrella can be represented using the human body by making an \"umbrella\" shape with the arms and holding the hands together.",
+        "strategy 1": {
+            "Action Name": "holding an umbrella",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Umbrella/UMBRELLA_silentgesture.mp4"
+        }
+    },
+    "Windscreenwipers": {
+        "GPT::how to represent Windscreenwipers using gestures": "\n\nTo represent windscreen wipers using gestures, you would move your hands back and forth in a windshield-wiping motion.",
+        "GPT::how to represent Windscreenwipers using hands": "\n\nWindscreenwipers can be represented using the ASL sign for 'wipe'. To sign 'wipe', extend your non-dominant arm out in front of you, palm up, and sweep your dominant hand across it from top to bottom.",
+        "GPT::how to represent Windscreenwipers using human body": "\n\nWindscreenwipers can be represented using two human arms. One arm can represent the wiper blade and the other arm can represent the wiper arm.",
+        "strategy 1": {
+            "Action Name": "swaying hands",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/Windscreenwipers/WINDSCREENWIPERS_silentgesture.mp4"
+        }
+    },
+    "Zimmerframe": {
+        "GPT::how to represent Zimmerframe using gestures": "\n\nThere is no single agreed-upon way to represent a Zimmerframe using gestures. However, one common way to do so is to hold up both hands in front of the chest, with the palms facing out and the fingers spread, to form a rough rectangular shape.",
+        "GPT::how to represent Zimmerframe using hands": "\n\nI don't know.",
+        "GPT::how to represent Zimmerframe using human body": "\n\nA Zimmerframe is often represented by a human body with a metal frame around it.",
+        "strategy 1": {
+            "Action Name": "using a zimmer frame",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Zimmerframe/ZIMMERFRAME_silentgesture.mp4"
+        }
+    },
+    "Accordion": {
+        "GPT::how to represent Accordion using gestures": " in android\n\nThere is no built-in widget for an accordion in Android, so you will need to create one yourself. There are many ways to do this, but one approach would be to use a GestureDetector to detect swipes and taps on a view, and then use an animation to expand or contract the view.",
+        "GPT::how to represent Accordion using hands": "\n\nThe most common way to represent an accordion using hands is to place one hand palm-up on a flat surface, with the fingers spread out. The other hand is then placed palm-down on top of the first hand, with the fingers also spread out. The two hands are then pressed together, simulating the opening and closing of an accordion.",
+        "GPT::how to represent Accordion using human body": "\n\nThe person stands with their arms outstretched, representing the two sides of the accordion. As the person squeezes their arms together, it represents the accordion being played.",
+        "strategy 1": {
+            "Action Name": "using accordion",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Accordion/ACCORDION_silentgesture.mp4"
+        }
+    },
+    "Ball": {
+        "GPT::how to represent Ball using gestures": "\n\nOne way to represent a ball using gestures would be to hold your hands close together with your fingers interlaced, and then move your hands in a circular motion.",
+        "GPT::how to represent Ball using hands": "\n\nA ball can be represented using hands by making a circle with the thumbs and index fingers touching.",
+        "GPT::how to represent Ball using human body": "\n\nThe arms can represent the roundness of the ball, with the hands coming together in the center to form the ball. The legs can be bent slightly with the feet together to create the bottom part of the ball. The head can be tilted slightly forward to create the top part of the ball.",
+        "strategy 1": {
+            "Action Name": "drawing circle",
+            "Ortega Taxonomy Class": "drawing",
+            "video": "./ortega-videos/Ball/BALL_silentgesture.mp4"
+        }
+    },
+    "Bed": {
+        "GPT::how to represent Bed using gestures": "\n\n/\n\nOne way to represent Bed using gestures is to pretend to be lying down on a bed. Another way to represent bed using gestures is to make a rectangle with your hands and then pretend to be sleeping on top of it.",
+        "GPT::how to represent Bed using hands": "\n\nTo represent bed using hands, you can pretend to be lying down on a bed with your head on a pillow and your arms at your sides.",
+        "GPT::how to represent Bed using human body": "\n\nTo represent a bed using the human body, one person could lie down on the ground with their arms and legs spread out. Another person could then lie on top of the first person, perpendicular to them. This would create the appearance of a bed.",
+        "strategy 1": {
+            "Action Name": "sleeping",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Bed/BED_silentgesture.mp4"
+        }
+    },
+    "Bridge": {
+        "GPT::how to represent Bridge using gestures": "\n\nThere is no one definitive way to represent bridge using gestures. Some possible gestures include holding up both hands with palms facing each other (representing the two halves of the bridge), or making a V shape with the hands (representing the shape of the bridge).",
+        "GPT::how to represent Bridge using hands": "\n\nBridge can be represented using two hands, with each hand representing one of the bridges. The thumb and index finger of each hand can be used to represent the two sides of the bridge, and the other fingers can be used to represent the span of the bridge.",
+        "GPT::how to represent Bridge using human body": "\n\nOne can represent Bridge using the human body by forming two lines of people with their arms outstretched, forming the shape of an \"X.\"",
+        "strategy 1": {
+            "Action Name": "drawing an arc",
+            "Ortega Taxonomy Class": "drawing",
+            "video": "./ortega-videos/Bridge/BRIDGE_silentgesture.mp4"
+        }
+    },
+    "Butterfly": {
+        "GPT::how to represent Butterfly using gestures": "\n\nThere is no one way to represent butterfly using gestures, but one possible way is to hold your hands out in front of you with your palms open and your fingers spread apart, then flutter your hands back and forth.",
+        "GPT::how to represent Butterfly using hands": "\n\nOne way to represent a butterfly using your hands is to make two fists and put them together so that the pinkies touch.",
+        "GPT::how to represent Butterfly using human body": "\n\nEliot Glazer, an expert in the field of butterscotch consumption, once said, \"The butterscotch is a candy composed of butter and scotch.\" In other words, a butterfly is a creature with two sets of wings.",
+        "strategy 1": {
+            "Action Name": "flapping",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/Butterfly/BUTTERFLY_silentgesture.mp4"
+        }
+    },
+    "Calculator": {
+        "GPT::how to represent Calculator using gestures": "\n\nThere is no one way to represent a calculator using gestures, as the specific gestures used will depend on the individual and the particular calculator being used. However, some common gestures that could be used to represent a calculator include holding up one hand with the fingers extended to form a symbol resembling a calculator keypad, or making a series of quick rubbing or tapping motions on the palm of the other hand.",
+        "GPT::how to represent Calculator using hands": "\n\nThere is no one definitive way to represent a calculator using hands. One possible way is to make a fist with one hand and hold it up in front of the other hand, which is held open with the fingers extended. The thumb and index finger of the fist hand can be used to represent the buttons on a calculator.",
+        "GPT::how to represent Calculator using human body": "\n\nThe body can represent a calculator by the positions of the arms and legs. For example, the left arm can represent the number 5, the right arm can represent the number 3, the left leg can represent the number 4, and the right leg can represent the number 2. The arms and legs can be moved to represent the operations of addition, subtraction, multiplication, and division. For example, to add 5 and 3, the left arm can be raised to represent the number 5, and the right arm can be raised to represent the number 3. To subtract 5 from 3, the left arm can be lowered to represent the number 3, and the right arm can be raised to represent the number 5.",
+        "strategy 1": {
+            "Action Name": "pressing buttons",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Calculator/CALCULATOR_silentgesture.mp4"
+        }
+    },
+    "Car": {
+        "GPT::how to represent Car using gestures": "\n\nA car can be represented using a gesture by pointing with two fingers in the shape of a V, representing the front of the car, and then making a sweeping motion with your hand to represent the rest of the car.",
+        "GPT::how to represent Car using hands": "\n\nCar can be represented using hands by making a fist with one hand and holding it in front of the other hand, which is open with the fingers extended.",
+        "GPT::how to represent Car using human body": "\n\nCar can be represented using human body by dividing it into different parts. For example, the head can represent the engine, the arms can represent the wheels, the body can represent the frame, and the legs can represent the suspension.",
+        "strategy 1": {
+            "Action Name": "driving",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Car/CAR_silentgesture.mp4"
+        }
+    },
+    "Guitar": {
+        "GPT::how to represent Guitar using gestures": "\n\nThere is no one way to represent guitar using gestures, as it depends on the person's individual interpretation. However, some common ways to gesture guitar include holding one hand out as if holding the neck of the guitar, and using the other hand to make strumming motions near the imaginary strings. Additionally, one could make tapping motions near the bottom of the imaginary guitar body, as if playing a riff or solo.",
+        "GPT::how to represent Guitar using hands": "\n\nOne way to represent a guitar using hands is to hold out both hands in front of you with the palms facing each other. The left hand should be slightly higher than the right hand. Next, place the left thumb on the lower part of the right hand, and the four fingers of the left hand should be placed around the right hand.",
+        "GPT::how to represent Guitar using human body": "\n\nThere is no one definitive way to represent guitar using human body. Some common methods include positioning the body as if playing the instrument, or holding the instrument in front of the body.",
+        "strategy 1": {
+            "Action Name": "using a guitar",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Guitar/GUITAR_silentgesture.mp4"
+        }
+    },
+    "Lobster": {
+        "GPT::how to represent Lobster using gestures": "\n\nOne way to represent lobster using gestures is to hold up both hands, palms facing each other, and move them in a pincer-like motion.",
+        "GPT::how to represent Lobster using hands": "\n\n:(\n\nLobster can be represented using two hands. The lobster's claws can be represented by the thumb and forefinger of each hand, and the lobster's body can be represented by the remaining fingers curled inward.",
+        "GPT::how to represent Lobster using human body": "\n\nLobster can be represented using the human body by having someone wear a lobster costume or by having someone draw a lobster on their body.",
+        "strategy 1": {
+            "Action Name": "clamming",
+            "Ortega Taxonomy Class": "personification",
+            "video": "./ortega-videos/Lobster/LOBSTER_silentgesture.mp4"
+        }
+    },
+    "Pistol": {
+        "GPT::how to represent Pistol using gestures": "\n\nOne way to represent a pistol using gestures is to hold up your hand in the shape of a gun, with your index finger and thumb extended and your other fingers tucked in.",
+        "GPT::how to represent Pistol using hands": "\n\nTo represent a pistol using hands, extend the pointer and middle fingers and place them side by side. The thumb should be extended and placed underneath the middle finger.",
+        "GPT::how to represent Pistol using human body": " parts\n\nYou could represent a pistol using human body parts by depicting a hand holding an imaginary gun, with the index and middle fingers extended and the other fingers curled in.",
+        "strategy 1": {
+            "Action Name": "shooting",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/Pistol/PISTOL_silentgesture.mp4"
+        }
+    },
+    "Pram": {
+        "GPT::how to represent Pram using gestures": "\n\nPram can be represented using the following gestures:\n\nThe ASL sign for \"pram\" is made by holding the dominant hand in a fist with the thumb extended and resting against the chest. The non-dominant hand is then placed on top of the fist, with the fingers pointing downwards.",
+        "GPT::how to represent Pram using hands": "\n\nThere is no one universally accepted way to represent Pram using hands. However, some possible ways to do so include folding the hands in front of the chest with the palms pressed together, or holding the hands out in front of the body with the palms up.",
+        "GPT::how to represent Pram using human body": "\n\nI cannot answer this question.",
+        "strategy 1": {
+            "Action Name": "pushing",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Pram/PRAM_silentgesture.mp4"
+        }
+    },
+    "Racket": {
+        "GPT::how to represent Racket using gestures": "\n\nRacket can be represented using a variety of gestures, depending on the context in which it is being used. For example, when racket is used in a game of tennis, a player might use a backhand stroke to represent the hitting of the ball. Alternatively, when racket is used in a game of badminton, a player might use an overhead stroke to represent the hitting of the birdie.",
+        "GPT::how to represent Racket using hands": "\n\nYou can represent Racket by making a \"rock\" hand gesture.",
+        "GPT::how to represent Racket using human body": " part\n\nOne could represent Racket using a human body part by, for example, holding up an index finger to represent a racket.",
+        "strategy 1": {
+            "Action Name": "swinging a bat",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Racket/RACKET_silentgesture.mp4"
+        }
+    },
+    "Salt": {
+        "GPT::how to represent Salt using gestures": "\n\nOne possible way to represent salt using gestures is to make a fists with both hands and then rub them together vigorously.",
+        "GPT::how to represent Salt using hands": "\n\nSalt can be represented using hands by holding up two fingers with the thumb out, similar to the gesture for \"peace.\"",
+        "GPT::how to represent Salt using human body": "\n\nOne way to represent salt using the human body is by using the acronym \"SALT.\" This acronym stands for \"Sodium, Aristolochic acids,Lead, and Thorium.\"",
+        "strategy 1": {
+            "Action Name": "pouring salt",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Salt/SALT_silentgesture.mp4"
+        }
+    },
+    "Spoon": {
+        "GPT::how to represent Spoon using gestures": "\n\nOne way to represent spoon using gestures is to hold your hand out with your palm up and use your fingers to form a scooping motion.",
+        "GPT::how to represent Spoon using hands": "\n\nOne way to represent Spoon using hands is to make a fist with your left hand and hold it up. Next, take your right hand and wrap it around your left fist until your thumb and first finger touch.",
+        "GPT::how to represent Spoon using human body": "\n\nOne could represent a spoon using their human body by contorting their body into the shape of a spoon.",
+        "strategy 1": {
+            "Action Name": "scooping",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Spoon/SPOON_silentgesture.mp4"
+        }
+    },
+    "Stairs": {
+        "GPT::how to represent Stairs using gestures": "\n\nTo represent stairs using gestures, you can hold your hands out in front of you with your palms up, and then move them up and down in a walking motion.",
+        "GPT::how to represent Stairs using hands": "\n\nThere is no one way to represent stairs using hands, as this will depend on the size and number of steps in the staircase. One way to represent a small staircase with a few steps would be to hold one hand out in front of you, with the fingers pointing down, and then to stack the other hand on top of it, making a pyramid shape. For a larger staircase, you could hold both hands out in front of you and then place one foot on top of the other, simulating the steps of a staircase.",
+        "GPT::how to represent Stairs using human body": "\n\nTo represent stairs using the human body, someone would need to stand with their feet slightly apart and their hands raised above their head, palms facing downwards. The person would then lower their hands and feet alternately, imitating the motion of walking downstairs.",
+        "strategy 1": {
+            "Action Name": "wiggle fingers",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/Stairs/STAIRS_silentgesture.mp4"
+        }
+    },
+    "Suitcase": {
+        "GPT::how to represent Suitcase using gestures": "\n\nAssuming you would like to represent a suitcase using American Sign Language (ASL), one possible way to do so would be to use the letter \"S\" handshape and trace it along the contour of an imaginary suitcase.",
+        "GPT::how to represent Suitcase using hands": "\n\nIf you would like to represent a suitcase using your hands, you can do so by holding your hands out in front of you palms down with your fingers interlocked.",
+        "GPT::how to represent Suitcase using human body": "\n\nA person can represent a suitcase using their body by pretending to be a door. The person stands with their legs slightly apart and their arms out to their sides. The person tilts their head to one side and makes a \"shhh\" sound indicating that they are closing the door.",
+        "strategy 1": {
+            "Action Name": "holding a suitcase",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Suitcase/SUITCASE_silentgesture.mp4"
+        }
+    },
+    "Telephone": {
+        "GPT::how to represent Telephone using gestures": "\n\nTo represent a telephone using gestures, pretend to hold a phone up to your ear with one hand, and use your other hand to pretend to dial a phone number.",
+        "GPT::how to represent Telephone using hands": "\n\nTo represent telephone using hands, put one hand up to your ear and cup it with your fingers and thumb like you would hold a phone. Then take your other hand and extend your pointer finger and thumb like you are holding the receiver on a phone and bring it up to the hand that is by your ear.",
+        "GPT::how to represent Telephone using human body": "\n\nYou can represent a telephone using your body by making a phone shape with your hands.",
+        "strategy 1": {
+            "Action Name": "calling",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/Telephone/TELEPHONE_silentgesture.mp4"
+        }
+    },
+    "To clap": {
+        "GPT::how to represent To clap using gestures": "\n\nThe gesture for clapping is to bring your hands together in front of your body with your palms facing each other and then to quickly move your hands away from each other and back together again.",
+        "GPT::how to represent To clap using hands": "\n\nPut your hands together in front of you and then move them back and forth so that they hit each other.",
+        "GPT::how to represent To clap using human body": "\n\nTo clap using human body, one would need to bring their hands together so that the palms touch and then quickly move them apart so that the palms make a clapping sound.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "clapping",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To clap/TO-CLAP_silentgesture.mp4"
+        }
+    },
+    "To comb": {
+        "GPT::how to represent To comb using gestures": "\n\nTo comb using gestures, you can either use one hand to simulate combing through your hair, or you can use two hands to hold an imaginary comb.",
+        "GPT::how to represent To comb using hands": "\n\nTo comb using hands, start by holding the comb in one hand. Use your other hand to grab a small section of hair. Gently pull the hair through the comb, moving from the roots to the ends. Repeat this process until all of the hair is combed.",
+        "GPT::how to represent To comb using human body": " language\n\nTo comb using human body language, extend one arm out in front of you and sweep your hand through your hair from front to back repeatedly.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "combing",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To comb/TO-COMB_silentgesture.mp4"
+        }
+    },
+    "To drink": {
+        "GPT::how to represent To drink using gestures": "\n\nTo drink, you can gesture like you are bringing a cup or glass to your lips and tilting it back.",
+        "GPT::how to represent To drink using hands": "?\n\nTo represent drinking using hands, one can make a cup with one hand and pretend to pour liquid into it from the other hand.",
+        "GPT::how to represent To drink using human body": " language\n\nTo drink using human body language, you can extend your arm out in front of you with your hand cupped or use a straw.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "drinking",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To drink/TO-DRINK_silentgesture.mp4"
+        }
+    },
+    "To erase": {
+        "GPT::how to represent To erase using gestures": "\n\nTo erase using gestures, hold your hand up with your palm facing the person or object you want to erase. Make a swiping motion with your hand as if you are wiping something away.",
+        "GPT::how to represent To erase using hands": "\n\nIf someone wants you to erase something using your hands, they would likely tell you to \"wipe it away\" or to \"clean it up.\"",
+        "GPT::how to represent To erase using human body": "\n\nTo erase using human body, start by making a fist with your hand. Next, use your fist to rub vigorously back and forth on the surface that you want to erase.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "erasing",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To erase/TO-ERASE_silentgesture.mp4"
+        }
+    },
+    "To go up": {
+        "GPT::how to represent To go up using gestures": "\n\nThere are a few different ways to represent \"to go up\" using gestures. One way is to hold your hand up in the air and move it in an upward motion. Another way is to raise your arms up above your head and move them up and down.",
+        "GPT::how to represent To go up using hands": "\n\nTo go up using hands, you can use a few different hand gestures. One is to hold your hands up in the air, palms facing out, and wiggle your fingers. Another is to put your hands on your hips and tilt your head back.",
+        "GPT::how to represent To go up using human body": " parts\n\nOne could represent going up by stretching one's arms up over one's head.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "going up",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/To go up/TO-GO-UP_silentgesture.mp4"
+        }
+    },
+    "To inject": {
+        "GPT::how to represent To inject using gestures": "\n\nTo inject using gestures, form a fist with your hand and push it into the person's skin.",
+        "GPT::how to represent To inject using hands": "\n\nThe best way to represent injecting using hands would be to make a fist with your dominant hand and extend your index and middle fingers. Place your dominant hand over the area you're injecting and insert the needle at a 45-degree angle.",
+        "GPT::how to represent To inject using human body": " \n\nOne way to represent to inject using the human body is by using a needle and syringe. The needle is inserted into the body, and the syringe is used to draw up the desired amount of fluid. The fluid is then injected into the body.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "injecting",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To inject/TO-INJECT_silentgesture.mp4"
+        }
+    },
+    "To iron": {
+        "GPT::how to represent To iron using gestures": "\n\nTo iron using gestures, you can pretend to smooth out wrinkles in fabric with an invisible iron.",
+        "GPT::how to represent To iron using hands": " as input devices\n\nIroning can be represented using hands as input devices by using a hand-held steamer or by using a self-standing ironing board.",
+        "GPT::how to represent To iron using human body": "\n\nYou could represent iron using human body by having someone hold a piece of iron in their hand.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "ironing",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To iron/TO-IRON_silentgesture.mp4"
+        }
+    },
+    "To juggle": {
+        "GPT::how to represent To juggle using gestures": "\n\nTo represent juggling using gestures, one can hold their hands out in front of them with their palms facing up and then move their hands in a circular motion, as if they are tossing balls into the air and catching them.",
+        "GPT::how to represent To juggle using hands": "\n\n Juggle can be represented using hands in many ways. The most common way is to show three balls being thrown up in the air and then caught in succession.",
+        "GPT::how to represent To juggle using human body": "\n\nTo juggle using human body, one would need to have three balls and would need to throw one ball up into the air and catch it while throwing the second ball up into the air and catching it, and then finally throwing the third ball up into the air and catching it.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "juggling",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To juggle/TO-JUGGLE__silentgesture.mp4"
+        }
+    },
+    "To listen": {
+        "GPT::how to represent To listen using gestures": "\n\nTo listen using gestures, you can hold up your hand to signal that you are ready to hear what the other person has to say. You can also nod your head to indicate that you are listening.",
+        "GPT::how to represent To listen using hands": "\n\nIf you want to indicate that you are listening using your hands, you can put your hand up to your ear, or hold your hand out in front of you with your palm facing downwards.",
+        "GPT::how to represent To listen using human body": " language\n\nTypically, when we want to indicate that we are listening to someone, we will make eye contact and keep our body facing towards the speaker. We might also nod occasionally to show that we are following along.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "listening",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To listen/TO-LISTEN_silentgesture.mp4"
+        }
+    },
+    "To pray": {
+        "GPT::how to represent To pray using gestures": "\n\nThe gesture for praying is to put your hands together in front of your chest, with your palms touching and your fingers pointed up.",
+        "GPT::how to represent To pray using hands": "\n\nThere are many ways to represent praying using hands. One way is to clasp the hands together in front of the chest. Another way is to hold the hands palms up and open in front of the face.",
+        "GPT::how to represent To pray using human body": " language\n\nTo pray using human body language, you can put your hands together in front of you, close your eyes, and bow your head.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "praying",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To pray/TO-PRAY_silentgesture.mp4"
+        }
+    },
+    "To take photo": {
+        "GPT::how to represent To take photo using gestures": "\n\nThere is no one definitive way to take a photo using gestures. Some possible methods include waving your hand in front of the camera, making a fist, or holding up your index finger.",
+        "GPT::how to represent To take photo using hands": "\n\nFirst, hold your hands out in front of you. Next, make a fist with one hand and place it behind the other hand. Finally, extend your fingers on the fist and place them on the back of the other hand.",
+        "GPT::how to represent To take photo using human body": "\n\nThere is no one definitive way to take a photo using your human body. Some possible techniques include using your hands or other body parts to create frame around the subject, using your body to block the sun or create a shadow, or using your body to create interesting shapes and patterns. Experiment and see what works best for you!",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "ckicking",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To take photo/TO-TAKE-PHOTO_silentgesture.mp4"
+        }
+    },
+
+    "Bike": {
+        "GPT::how to represent Bike using gestures": "\n\nA person can represent a bike using gestures by first holding their hands out in front of them, palms down, and then pretend to pedaling their hands as if they are riding a bike.",
+        "GPT::how to represent Bike using hands": " and legs?\n\nThere is no definitive answer to this question as people can interpret it in different ways. Some possible interpretations could include riding a bike with your hands and legs, or representing a bike using your hands and legs as the frame and wheels.",
+        "GPT::how to represent Bike using human body": "\n\nThe front wheel of the bike can be represented by the head, the back wheel by the feet, and the frame of the bike by the body.",
+        "strategy 1": {
+            "Action Name": "cycling",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Bike/BIKE_silentgesture.mp4"
+        }
+    },
+    "Mug": {
+        "GPT::how to represent Mug using gestures": "\n\nMug can be represented using the gesture for \"cup.\" To do this, form a \"C\" shape with your hand, and then close your fingers to form a fist.",
+        "GPT::how to represent Mug using hands": "\n\nOne hand can be used to represent a Mug. The fingers can be used to represent the handle of the Mug and the thumb can be used to represent the body of the Mug.",
+        "GPT::how to represent Mug using human body": "\n\nMug can be represented using a human body by holding the mug in both hands close to the chest.",
+        "strategy 1": {
+            "Action Name": "drinking",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Mug/MUG_silentgesture.mp4"
+        }
+    },
+    "To cut knife": {
+        "GPT::how to represent To cut knife using gestures": "\n\nTo make the gesture for a knife, extend your arm out in front of you and pretend to cut something in the air with your hand.",
+        "GPT::how to represent To cut knife using hands": "\n\nCutting with a knife is typically done by holding the knife in one hand and using the other hand to guide the food being cut.",
+        "GPT::how to represent To cut knife using human body": " parts\n\nTo represent \"to cut knife\" using human body parts, one could use their fingers to mimick a knife, and then move their hand across their throat.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "cutting",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To cut knife/TO-CUT-knife_silentgesture.mp4"
+        }
+    },
+    "To go down": {
+        "GPT::how to represent To go down using gestures": "\n\nTo go down using gestures, you can pretend to be falling or sliding down a hill or slope.",
+        "GPT::how to represent To go down using hands": "\n\nIf you want to represent \"to go down\" using your hands, you can put one hand palm down on a flat surface and then gradually lower your other hand until it is also palm down on the surface.",
+        "GPT::how to represent To go down using human body": " language\n\nTo go down using human body language, one would need to squat down low to the ground.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " wiggling fingers",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/To go down/TO-GO-DOWN_silentgesture.mp4"
+        }
+    },
+    "To slap": {
+        "GPT::how to represent To slap using gestures": "\n\nTo slap using gestures, place your palm flat against the back of your other hand and then quickly extend your fingers to make contact with the back of your palm.",
+        "GPT::how to represent To slap using hands": "\n\nTo slap using hands, extend one arm out from the shoulder and bring the other arm up from the elbow so that the two hands meet in the air.",
+        "GPT::how to represent To slap using human body": " language\n\nTo slap using human body language, one would raise their hand and quickly bring it down on the other person's body.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "slapping face",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To slap/TO-SLAP_silentgesture.mp4"
+        }
+    },
+    "To sms": {
+        "GPT::how to represent To sms using gestures": "\n\nTouch your thumb to your index finger to create the letter \"T.\" Touch your pinky finger to your ring finger to create the letter \"S.\" Finally, touch your middle finger to your thumb to create the letter \"M.\"",
+        "GPT::how to represent To sms using hands": "\n\nThere is no one definitive way to represent \"To SMS\" using hands, but some common ways include holding up both hands with the palms facing out and spreading the fingers apart, or holding up one hand with the palm facing out and the fingers spread apart while tapping the other hand on the palm.",
+        "GPT::how to represent To sms using human body": "\n\nThe person could raise their arms above their head and move their hands back and forth to indicate sending a text message.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "texting",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To sms/TO-SMS_silentgesture.mp4"
+        }
+    },
+    "To tear": {
+        "GPT::how to represent To tear using gestures": "\n\nTo tear using gestures, you can pretend to rip something in half with your hands.",
+        "GPT::how to represent To tear using hands": "\n\nTearing can be represented using hands by making a grabbing motion with the fingers and pulling the hands apart.",
+        "GPT::how to represent To tear using human body": " motion\n\nOne could pretend to rip a piece of paper in half.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "tearing",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To tear/TO-TEAR_silentgesture.mp4"
+        }
+    },
+    "Towel": {
+        "GPT::how to represent Towel using gestures": "\n\nA towel can be represented using a gesture that mimics the action of drying oneself off with a towel. The gesture can be performed by moving the hand back and forth across the body as if one were wiping themselves down with a towel.",
+        "GPT::how to represent Towel using hands": "\n\nPretend you are holding a large bath towel in your hands. The towel is draped over your hands and is hanging down, almost to the ground.",
+        "GPT::how to represent Towel using human body": "\n\nA person could represent a towel by holding one end in each hand and draping it over their body.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "wiping",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Towel/TOWEL_silentgesture.mp4"
+        }
+    },
+    "Baby": {
+        "GPT::how to represent Baby using gestures": "\n\nTo represent baby using gesture, you can put your hands in the shape of a cradle or use the ASL sign for \"baby.\"",
+        "GPT::how to represent Baby using hands": "\n\nOne way to represent Baby using hands is to make a fist with one hand and hold it in the palm of the other hand.",
+        "GPT::how to represent Baby using human body": "\n\nA person representing Baby might have a large head and small body to indicate that Baby is still growing and developing. They might also have a lot of energy and be playful.",
+        "strategy 1": {
+            "Action Name": " cradling",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Baby/BABY_silentgesture.mp4"
+        }
+    },
+    "Banana": {
+        "GPT::how to represent Banana using gestures": "\n\nA popular gesture to represent Banana is to hold up both hands, with the palms facing each other, and then twist the hands around each other.",
+        "GPT::how to represent Banana using hands": "\n\nTo represent banana using hands, you can make a fist with your left hand and place your right hand over the top of it, making the shape of a banana.",
+        "GPT::how to represent Banana using human body": "\n\nOne could represent banana using human body by holding up an arm in the shape of a banana.",
+        "strategy 1": {
+            "Action Name": "peeling banana",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Banana/BANANA_silentgesture.mp4"
+        }
+    },
+    "Beer": {
+        "GPT::how to represent Beer using gestures": "\n\nA toast with beer held up in the air is a gesture that is commonly used to represent beer.",
+        "GPT::how to represent Beer using hands": "\n\nThe index and middle fingers are extended and the thumb is placed between them to create the shape of a beer glass.",
+        "GPT::how to represent Beer using human body": "\n\n ears- for listening to the pour\n\neyes- for watching the color\n\nmouth- for savoring the flavor\n\nnose- for smelling the aromas\n\nhands- for holding the glass\n\nbody- for feeling the warmth",
+        "strategy 1": {
+            "Action Name": " drinking",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Beer/BEER_silentgesture.mp4"
+        }
+    },
+    "Bird": {
+        "GPT::how to represent Bird using gestures": "\n\nOne way to represent bird using gestures would be flapping your arms up and down like wings. Another way would be to put your hands together and then bring them up to your face like you are pecking at something.",
+        "GPT::how to represent Bird using hands": "\n\n:0",
+        "GPT::how to represent Bird using human body": "\n\nOne could use their arms and legs to represent the wings and body of a bird respectively.",
+        "strategy 1": {
+            "Action Name": " flapping",
+            "Ortega Taxonomy Class": "personification",
+            "video": "./ortega-videos/Bird/BIRD_silentgesture.mp4"
+        }
+    },
+    "Book": {
+        "GPT::how to represent Book using gestures": "\n\nA person could represent a book by holding up an open palm, with all the fingers extended, to symbolize a book's spine and pages.",
+        "GPT::how to represent Book using hands": "\n\nThere is no one-size-fits-all answer to this question, as the representation of a book using hands will vary depending on the book itself. However, some ways to represent a book using hands could include holding up the cover so that others can see the title and author, or opening up the book to show the first page. Alternatively, you could pantomime reading the book, or simply hold it up in the air to show that it is a book.",
+        "GPT::how to represent Book using human body": "\n\nBook can be represented using human body by making a human shape with arms and legs outstretched and a head. The head can be used to represent the cover of the book, and the arms and legs can be used to represent the pages.",
+        "strategy 1": {
+            "Action Name": "reading",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/Book/BOOK_silentgesture.mp4"
+        }
+    },
+    "Bottle": {
+        "GPT::how to represent Bottle using gestures": "\n\nTo represent a bottle using gestures, you can hold your hand up to your mouth as if you were drinking from a bottle, or you can gesture like you are holding a bottle up to your mouth and tilted back.",
+        "GPT::how to represent Bottle using hands": "\n\nOne can represent a bottle using their hands by cupping them together and making a circular opening with their thumbs and first two fingers.",
+        "GPT::how to represent Bottle using human body": "\n\nYou can represent a bottle using your human body by holding it in your hand, or by placing it on a table or other surface.",
+        "strategy 1": {
+            "Action Name": " drinking",
+            "Ortega Taxonomy Class": "drawing",
+            "video": "./ortega-videos/Bottle/BOTTLE_silentgesture.mp4"
+        }
+    },
+    "Box": {
+        "GPT::how to represent Box using gestures": "\n\nA box can be represented using gestures by making a square with the hands, or by tracing the outline of a box in the air.",
+        "GPT::how to represent Box using hands": "\n\nHolds one hand in a fist and rests the bottom of that fist on the flat palm of the other hand.",
+        "GPT::how to represent Box using human body": "\n\nOne could represent a box using their body by pretending to be a box. To do this, they would stand with their feet shoulder-width apart and raise their arms straight out to the sides. Then, they would square their shoulders and tilt their head forward so that their chin is touching their chest.",
+        "strategy 1": {
+            "Action Name": "drawing rectangle",
+            "Ortega Taxonomy Class": "drawing",
+            "video": "./ortega-videos/Box/BOX_silentgesture.mp4"
+        }
+    },
+    "Building": {
+        "GPT::how to represent Building using gestures": "\n\nOne way to represent building using gestures is to pretend to stack blocks on top of each other to create a tall structure.",
+        "GPT::how to represent Building using hands": "\n\n\n\nBuilding can be represented using hands by forming a rectangle with the thumb and index finger of each hand.",
+        "GPT::how to represent Building using human body": "\n\nOne could represent a building using their body by lying down on the ground and spreading their arms and legs out to create the outline of the structure.",
+        "strategy 1": {
+            "Action Name": "drawing big rectangle",
+            "Ortega Taxonomy Class": "drawing",
+            "video": "./ortega-videos/Building/BUILDING_silentgesture.mp4"
+        }
+    },
+    "Camel": {
+        "GPT::how to represent Camel using gestures": "\n\nThere is no standard gesture to represent a camel, but some possible gestures include holding your hands in front of you with your fingers curled in to representing the hump, or placing one hand on top of the other to represent the head and neck.",
+        "GPT::how to represent Camel using hands": "\n\nTo represent a camel using hands, make a fist with one hand and place the other hand flat on top of it like a hump.",
+        "GPT::how to represent Camel using human body": "\n\nCamel can be represented using human body by holding up two fingers on each hand like the hump of a camel.",
+        "strategy 1": {
+            "Action Name": " moving hand in wave like motion to show humps",
+            "Ortega Taxonomy Class": "drawing",
+            "video": "./ortega-videos/Camel/CAMEL_silentgesture.mp4"
+        }
+    },
+    "Cell": {
+        "GPT::how to represent Cell using gestures": "\n\nA cell can be represented using gestures such as pointing to a specific location, drawing a circle, or making a universal sign for cell.",
+        "GPT::how to represent Cell using hands": "\n\nPut your hands together in front of you, with your fingers touching and your palms facing each other.",
+        "GPT::how to represent Cell using human body": "\n\nThe cells in our body could be represented using the many different organs in our body. For example, the heart could represent the cells that pump blood throughout our body, the lungs could represent the cells that take in oxygen and release carbon dioxide, and the stomach could represent the cells that break down food.",
+        "strategy 1": {
+            "Action Name": " calling",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Cell/CELL_silentgesture.mp4"
+        }
+    },
+    "Deer": {
+        "GPT::how to represent Deer using gestures": "\n\nOne way to represent Deer using gestures is to form the outline of the animal with your hands. Another way is to hold your hands up to your head to form antlers.",
+        "GPT::how to represent Deer using hands": "\n\nDeer can be represented using hands by making fists with the thumbs sticking out and the pinkies sticking out.",
+        "GPT::how to represent Deer using human body": "\n\nA deer can be represented by a human body by having the person stand on all fours with their arms extended out like antlers.",
+        "strategy 1": {
+            "Action Name": " showing horns",
+            "Ortega Taxonomy Class": "personification",
+            "video": "./ortega-videos/Deer/DEER_silentgesture.mp4"
+        }
+    },
+    "Door": {
+        "GPT::how to represent Door using gestures": "\n\nOpen your arms wide to represent a door opening.",
+        "GPT::how to represent Door using hands": "\n\nOne hand represents the door by making a rectangle with the thumb and first two fingers. The other hand can be used to represent the doorknob.",
+        "GPT::how to represent Door using human body": " parts\n\nA door can be represented using human body parts by two people standing side by side with their arms outstretched, forming a rectangle.",
+        "strategy 1": {
+            "Action Name": " opening door",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Door/DOOR_silentgesture.mp4"
+        }
+    },
+    "Drill": {
+        "GPT::how to represent Drill using gestures": "\n\nThere is no one way to represent drill using gestures, as drill can mean many different things. Some possible gestures that could be used to represent drill include: making a drilling motion with one's hands, pointing to a drill, or making a motion as if one is moving a drill bit through a hole.",
+        "GPT::how to represent Drill using hands": "\n\nOne way to represent Drill using hands is to make a fist with your right hand and then place your left hand over it so that your left thumb is in between your right index and middle fingers.",
+        "GPT::how to represent Drill using human body": "\n\nUsing the body to represent the idea of a drill can be done in a few ways. One way is to raise one arm up in the air and use the other arm to twist the raised arm in a circular motion, replicating the action of a drill. Another way is to stand with legs spread apart and raise one arm in the air while bending the other at the elbow and twisting the hand in a circular motion, again replicating the action of a drill.",
+        "strategy 1": {
+            "Action Name": "drilling",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Drill/DRILL_silentgesture.mp4"
+        }
+    },
+    "Key": {
+        "GPT::how to represent Key using gestures": "\n\nThere is no one-size-fits-all answer to this question, as the best way to represent a key using gestures may vary depending on the particular key and the context in which it is being used. However, some possible gestures that could be used to represent a key include holding up a finger to represent the keyhole, making a fist to represent the key itself, or using one hand to mime turning a key in a lock.",
+        "GPT::how to represent Key using hands": "\n\nThere is no one way to represent key using hands, but one common way is to hold up both hands with the palms facing out and then close the hands so that the fingers are interlocked.",
+        "GPT::how to represent Key using human body": "\n\nThere is no one definitive way to do this.",
+        "strategy 1": {
+            "Action Name": "locking",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Key/KEY_silentgesture.mp4"
+        }
+    },
+    "Laptop": {
+        "GPT::how to represent Laptop using gestures": "\n\nLaptop computer can be represented with the gesture of typing on a keyboard.",
+        "GPT::how to represent Laptop using hands": "\n\nTo represent a laptop using your hands, make an \"L\" shape with your left hand. Place your right hand palm down on top of the left hand so that your thumbs are touching.",
+        "GPT::how to represent Laptop using human body": "\n\nThe body can represent a laptop in many ways. For example, the head can represent the screen, the arms can represent the keyboard, and the legs can represent the base.",
+        "strategy 1": {
+            "Action Name": " typing",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Laptop/LAPTOP_silentgesture.mp4"
+        }
+    },
+    "Lighter": {
+        "GPT::how to represent Lighter using gestures": "\n\nTo represent lighter using gestures, you can hold up your hand with your palm facing up and then make a fist with your other hand and bring it down onto your palm.",
+        "GPT::how to represent Lighter using hands": "\n\nThe pinky and index fingers are extended and the thumb is tucked in to form a \"L.\"",
+        "GPT::how to represent Lighter using human body": "\n\nUsing the body to represent the object \"lighter\" is not possible.",
+        "strategy 1": {
+            "Action Name": "clicking",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Lighter/LIGHTER_silentgesture.mp4"
+        }
+    },
+    "Monkey": {
+        "GPT::how to represent Monkey using gestures": "\n\nThere is no one standardized gesture to represent monkey in signing, however one common gesture is to form a fist with your hand and place it on top of your head, representing the monkey's head, and then wriggle your fingers to represent the monkey's tail.",
+        "GPT::how to represent Monkey using hands": "\n\nOne could represent a monkey using their hands by making a fist with their right hand and placing their left hand on top of it, creating the shape of a monkey's head.",
+        "GPT::how to represent Monkey using human body": " language\n\nOne could put their hands over their head to create \"monkey ears,\" curl their hands and climb up an invisible tree, or simply say \"I'm a monkey!\" while hopping around.",
+        "strategy 1": {
+            "Action Name": "scratching",
+            "Ortega Taxonomy Class": "personification",
+            "video": "./ortega-videos/Monkey/MONKEY_silentgesture.mp4"
+        }
+    },
+    "Motorbike": {
+        "GPT::how to represent Motorbike using gestures": "\n\nMotorbike can be represented using the following gestures:\n\n held in both hands with the palms facing down and the fingers spread out\n\none hand held in front of the body with the palm facing down and the fingers spread out\n\nboth hands held in front of the body with the palms facing each other and the fingers intertwined",
+        "GPT::how to represent Motorbike using hands": "\n\nA person can represent a motorbike using their hands by making an L shape with their thumb and pointer finger.",
+        "GPT::how to represent Motorbike using human body": "\n\nThe headlights of the bike could be represented by two bright eyes, while the metal frame could be the body. The handlebars could be represented by two outstretched arms, and the exhaust pipes could be represented by legs.",
+        "strategy 1": {
+            "Action Name": "driving",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Motorbike/MOTORBIKE_silentgesture.mp4"
+        }
+    },
+    "Piano": {
+        "GPT::how to represent Piano using gestures": "\n\nPiano can be represented using a number of different gestures, depending on the context and the purpose of the gesture. For example, a simple gesture to represent piano might be to place one hand on an imaginary keyboard in front of the body and to play an imaginary melody with the other hand. A more complex gesture might involve both hands playing an imaginary keyboard, or one hand playing an imaginary keyboard while the other hand conducts an imaginary orchestra.",
+        "GPT::how to represent Piano using hands": "\n\nUsing both hands, pretend to play an invisible piano in front of you.",
+        "GPT::how to represent Piano using human body": "\n\nThe human body can be used to represent a piano in a few different ways. For example, the fingers can be used to represent the keys on a piano, with the thumbs representing the white keys and the other fingers representing the black keys.\n\nAnother way to represent a piano using the human body is to use the arms to represent the different sections of the piano. For example, the right arm can represent the treble section, while the left arm can represent the bass section.",
+        "strategy 1": {
+            "Action Name": "playing a piano",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Piano/PIANO_silentgesture.mp4"
+        }
+    },
+    "Plane": {
+        "GPT::how to represent Plane using gestures": "\n\nThere is no one definitive way to represent a plane using gestures. Some possible gestures that could be used to represent a plane include: holding your hands out parallel to each other at shoulder width, holding your hands out with your palms facing each other at about waist level, or holding one hand out flat and keeping the other hand close to it with the palm facing down.",
+        "GPT::how to represent Plane using hands": "\n\nOne hand can be used to represent the horizontal plane while the other hand can be used to represent the vertical plane.",
+        "GPT::how to represent Plane using human body": "\n\nOne could represent a plane using a human body by having a person lying down on their back with their arms and legs outstretched.",
+        "strategy 1": {
+            "Action Name": " flying",
+            "Ortega Taxonomy Class": "personification",
+            "video": "./ortega-videos/Plane/PLANE_silentgesture.mp4"
+        }
+    },
+    "Pyramid": {
+        "GPT::how to represent Pyramid using gestures": "\n\nOne way to represent a pyramid using gestures is to hold up both hands with the palms facing each other and then slowly bring the tips of the middle fingers together to form a point.",
+        "GPT::how to represent Pyramid using hands": "\n\nTo represent a pyramid using your hands, spread your fingers out wide and point your thumbs and index fingers upward to make two triangular shapes.",
+        "GPT::how to represent Pyramid using human body": "\n\nA human body can be used to represent a pyramid by standing upright with the arms outstretched to form the sides of the pyramid and the head forming the apex.",
+        "strategy 1": {
+            "Action Name": " drawing cone",
+            "Ortega Taxonomy Class": "drawing",
+            "video": "./ortega-videos/Pyramid/PYRAMID_silentgesture.mp4"
+        }
+    },
+    "Rattle": {
+        "GPT::how to represent Rattle using gestures": "\n\nRattle can be represented using the following gestures: shaking a rattle, shaking a baby's crib, or holding a baby.",
+        "GPT::how to represent Rattle using hands": "\n\nThere is no single way to represent Rattle using hands, as it can be done in a number of ways depending on the person's preference. One way to represent it is to make a fist with the right hand and to hold the left hand open with the palm up. Another way is to make a fist with the left hand and to hold the right hand open with the palm up.",
+        "GPT::how to represent Rattle using human body": "\n\nRattle can be represented by a human body by shaking the body or by using a shaking motion with the hands.",
+        "strategy 1": {
+            "Action Name": "ratlling",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Rattle/RATTLE_silentgesture.mp4"
+        }
+    },
+    "Snake": {
+        "GPT::how to represent Snake using gestures": "\n\nOne way to represent a snake using gestures is to make a \"S\" shape with your body.",
+        "GPT::how to represent Snake using hands": "\n\nThere is not a universally accepted way to represent Snake using hands, but one common method is to extend the index and middle fingers of both hands, then connect them at the tips to form a tube.",
+        "GPT::how to represent Snake using human body": "\n\nTo represent Snake using the human body, one could slither on the ground, or curl up and coil like a spring.",
+        "strategy 1": {
+            "Action Name": "slithering",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/Snake/SNAKE_silentgesture.mp4"
+        }
+    },
+    "Spider": {
+        "GPT::how to represent Spider using gestures": "\n\nTo represent Spider using gestures, you could extend both of your arms out in front of you with your palms facing down, and then bring your hands together so that your fingers are interlaced.",
+        "GPT::how to represent Spider using hands": "\n\nTo represent a spider using hands, make a fist with both hands and place them close together. Next, put the index finger and thumb of each hand next to each other and spread them apart slightly to form the spider's legs.",
+        "GPT::how to represent Spider using human body": "\n\nThere is no single way to represent Spider using the human body, as there are many different species of spider with different physical characteristics. However, some common elements that could be used to represent a spider might include eight legs (represented by four arms and four legs), a large round abdomen, and multiple eyes. Additionally, spiders are often associated with webbing, so this could be represented by stretching out arms and legs to create a web-like shape.",
+        "strategy 1": {
+            "Action Name": " wiggling fingers",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/Spider/SPIDER_silentgesture.mp4"
+        }
+    },
+    "Tea": {
+        "GPT::how to represent Tea using gestures": "\n\nTo represent tea using gestures, you can pretend to pour a cup of tea and then raise it to your lips as if you are taking a sip.",
+        "GPT::how to represent Tea using hands": "\n\nTo represent tea using hands, make a \"T\" shape with your hands.",
+        "GPT::how to represent Tea using human body": "\n\nA teacup could be held in someone's hand. The tea itself could be pouring out of the teacup and into the person's mouth.",
+        "strategy 1": {
+            "Action Name": "sipping tea",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Tea/TEA_silentgesture.mp4"
+        }
+    },
+    "To break": {
+        "GPT::how to represent To break using gestures": "\n\nTo break can be represented by making a breaking gesture with your hands.",
+        "GPT::how to represent To break using hands": "\n\nThere is no single standard way to represent breaking with hands. A few common methods include making a fist and then extending the fingers outward to signify breaking something, or making a fist and then quickly moving the hand up and down to create the illusion of breaking something.",
+        "GPT::how to represent To break using human body": "\n\nOne could break their hands to symbolize breaking.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "breaking",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To break/TO-BREAK_silentgesture.mp4"
+        }
+    },
+    "To cry": {
+        "GPT::how to represent To cry using gestures": "\n\nTo cry using gestures, one would cup their hands over their eyes and tilt their head down, symbolizing the act of crying.",
+        "GPT::how to represent To cry using hands": "\n\na person could put their hands over their face and pretend to cry",
+        "GPT::how to represent To cry using human body": " language\n\nTears streaming down the face, blotchy red skin, snot running from the nose, mouth open in a silent sob.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " crying",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To cry/TO-CRY_silentgesture.mp4"
+        }
+    },
+    "To itch": {
+        "GPT::how to represent To itch using gestures": "\n\nThere are a few different ways to represent itch using gestures. One way is to pretend to scratch yourself with your fingers. Another way is to rub your skin with your hand to show that it is itchy.",
+        "GPT::how to represent To itch using hands": "\n\nTo itch using hands, you can make a scratching motion with your fingers on your skin.",
+        "GPT::how to represent To itch using human body": " language\n\nTo itch using human body language, one might scratch themselves with their fingers or a sharp object.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "scratching",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To itch/TO-ITCH_silentgesture.mp4"
+        }
+    },
+    "To knead": {
+        "GPT::how to represent To knead using gestures": "\n\nTo knead using gestures, place your hands on top of each other and interlace your fingers. Next, push your palms away from each other and then pull them back towards each other. Repeat this motion until the dough is well-kneaded.",
+        "GPT::how to represent To knead using hands": "\n\nknead (verb): to work (dough, clay, etc.) with the hands, usually in a regular pattern of motion, in order to make it soft and pliable \n\nEX: Knead the dough for five minutes before shaping it into a loaf.",
+        "GPT::how to represent To knead using human body": " action\n\nBy using both hands, push down and turn the dough at the same time.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "kneading",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To knead/TO-KNEAD_silentgesture.mp4"
+        }
+    },
+    "To knock": {
+        "GPT::how to represent To knock using gestures": "\n\nTo knock using gestures, make a fist with your hand and rap it against something hard.",
+        "GPT::how to represent To knock using hands": "\n\nTo knock using hands, put one hand palm down and the other hand palm up and then hit the palm of the up hand with the palm of the down hand.",
+        "GPT::how to represent To knock using human body": "\n\nTo knock using the human body, make a fist with one hand and tap it against the open palm of the other hand.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " knocking",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To knock/TO-KNOCK_silentgesture.mp4"
+        }
+    },
+    "To know": {
+        "GPT::how to represent To know using gestures": "\n\nThere isn't a single way to represent \"to know\" using gestures, but one way to do it is to raise your eyebrows and tap your head with your index finger.",
+        "GPT::how to represent To know using hands": "\n\nIf you want to represent \"to know\" using your hands, you can put your thumb and index finger together to form a small circle.",
+        "GPT::how to represent To know using human body": " language\n\nThere isn't a single answer to this question since human body language varies so much from culture to culture. However, in general, people tend to use their hands and arms to express themselves when they are trying to communicate something important. They may also use facial expressions and body positioning to emphasize their point.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "pointing at head",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To know/TO-KNOW_silentgesture.mp4"
+        }
+    },
+    "To phone": {
+        "GPT::how to represent To phone using gestures": "\n\nTo phone someone using gestures, first hold up your index finger and thumb in the shape of a rectangle. This gesture represents a phone. Next, move your thumb back and forth as if you are dialing a phone number. Finally, hold the rectangle up to your ear as if you are talking on the phone.",
+        "GPT::how to represent To phone using hands": "\n\nOne way to represent \"to phone\" using hands is to make a telephone with your hand by holding your thumb and little finger up to your ear, and your index finger and middle finger up to your mouth.",
+        "GPT::how to represent To phone using human body": "\n\nTo phone someone using a human body, you would need to use a phone handset. The handset would need to be held up to your ear and you would need to speak into the microphone.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "calling",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/To phone/TO-PHONE_silentgesture.mp4"
+        }
+    },
+    "To powder": {
+        "GPT::how to represent To powder using gestures": "\n\nPowder can be represented using the gesture of pouring a small amount of powder from one hand to the other.",
+        "GPT::how to represent To powder using hands": "\n\nTo powder using hands could be represented by a person placing their hand into a casting powder and then removing it to show the powder on their hand.",
+        "GPT::how to represent To powder using human body": " parts\n\nOne way to represent powder using human body parts is to use a person's hands to create a powdery substance. Another way to represent powder is to use a human body part, such as the face, to create a powdery substance.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " applying powder",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To powder/TO-POWDER_silentgesture.mp4"
+        }
+    },
+    "To pull": {
+        "GPT::how to represent To pull using gestures": "\n\n Pulling can be represented using a gesture where the hand is held out with the fingers extended and the thumb is used to make a pulling motion.",
+        "GPT::how to represent To pull using hands": "\n\nTo pull using hands, you would use the motion of your hands moving towards each other.",
+        "GPT::how to represent To pull using human body": "\n\nThere is no one way to represent \"to pull\" using the human body. Some possible gestures that could be used to represent this concept include: grasping an object and pulling it towards oneself, reaching out and grabbing onto something and then pulling it back, pulling on something that is already attached to the body.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " pulling",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To pull/TO-PULL_silentgesture.mp4"
+        }
+    },
+    "To pump": {
+        "GPT::how to represent To pump using gestures": "\n\nPumping can be represented using a fist with the thumb extended upward.",
+        "GPT::how to represent To pump using hands": "\n\nPumping can be represented using hands by placing one hand on top of the other and moving them up and down in a quick motion.",
+        "GPT::how to represent To pump using human body": "\n\nYou can use your arms to represent pumping.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " pumping",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To pump/TO-PUMP_silentgesture.mp4"
+        }
+    },
+    "To put lipstick on": {
+        "GPT::how to represent To put lipstick on using gestures": "\n\nTo put lipstick on using gestures, first cup your hand around your mouth like you're holding a tube of lipstick. Next, use your thumb and index finger to pucker your lips. Finally, use your other hand to apply the lipstick to your lips.",
+        "GPT::how to represent To put lipstick on using hands": "\n\nUsing your hands, hold an imaginary lipstick in front of your lips. Apply the lipstick to your lips, making sure to fill in your entire lip area.",
+        "GPT::how to represent To put lipstick on using human body": "\n\nTo put lipstick on using human body, you would need to use your arms, hands, and fingers.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " apply lipstick",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To put lipstick on/TO-PUT-LIPSTICK-ON_silentgesture.mp4"
+        }
+    },
+    "To row": {
+        "GPT::how to represent To row using gestures": "\n\nTo row can be represented using a variety of gestures, depending on the context. Some common gestures to represent rowing include:\n\n- Making rowing motions with the arms\n\n- Pretending to row a boat using an invisible oar\n\n- Rowing a real boat",
+        "GPT::how to represent To row using hands": "\n\nTo row using hands, put your hands together in front of you with your palms facing each other. Interlace your fingers and put your thumbs together. Push your palms away from each other, keeping your thumbs together, and then pull your palms back toward each other.",
+        "GPT::how to represent To row using human body": "\n\nOne could say that the \"to row\" is represented by the human body in the act of rowing a boat. The arms would be doing the rowing motion, while the legs and feet would be providing power and stability. The trunk of the body would be keeping the boat balanced and help to distribute the rowing motion evenly.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "rowing",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To row/TO-ROW_silentgesture.mp4"
+        }
+    },
+    "To run": {
+        "GPT::how to represent To run using gestures": "\n\nTo represent \"to run,\" one could use a gesture such as drawning a figure eight in the air with their finger, or making a running motion with their arms.",
+        "GPT::how to represent To run using hands": " and feet\n\n\n\nOne way to represent \"to run using hands and feet\" would be to show a person running with their hands and feet.",
+        "GPT::how to represent To run using human body": "\n\nTo run using human body, one would need to use their legs to move themselves forward.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "running",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To run/TO-RUN_silentgesture.mp4"
+        }
+    },
+    "To shave": {
+        "GPT::how to represent To shave using gestures": "\n\nTo shave using gestures, you would need to first pretend to have a beard. Then, using your fingers, pretend to shave the beard off.",
+        "GPT::how to represent To shave using hands": "\n\nThere is no one way to represent shaving using hands, as it can be done in many different ways. One way to represent shaving using hands is to create a hand gesture that simulates the act of shaving, such as running one's fingers along the jawline as if shaving. Another way to represent shaving using hands is to create a hand gesture that symbolizes the tools used in shaving, such as holding an invisible razor or making a shaving brush gesture.",
+        "GPT::how to represent To shave using human body": " parts\n\nTo shave using human body parts, one would need to use a razor to remove hair from their face.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " shaving",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To shave/TO-SHAVE_silentgesture.mp4"
+        }
+    },
+    "To ski": {
+        "GPT::how to represent To ski using gestures": "\n\nTo represent skiing using gestures, you can do a few things. You can hold your hands close together in front of you and make a sweeping motion back and forth, as if you are gliding across the snow. You can also pretend to hold ski poles and make the same sweeping motion. Another way to represent skiing is to make a skiing motion with your feet, as if you are doing a kick turn.",
+        "GPT::how to represent To ski using hands": "\n\nTo represent skiing using hands, make a fist with each hand and cross your arms in front of your chest.",
+        "GPT::how to represent To ski using human body": " language\n\nTo ski using human body language, the person would need to make an S shape with their body.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "skiing",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To ski/TO-SKI_silentgesture.mp4"
+        }
+    },
+    "To sleep": {
+        "GPT::how to represent To sleep using gestures": "\n\nTo sleep using gestures, one can pretend to be lying down on a bed and close their eyes.",
+        "GPT::how to represent To sleep using hands": "\n\nTo sleep using hands, you would typically use the \"hand resting\" emoji.",
+        "GPT::how to represent To sleep using human body": " language\n\nTo sleep using human body language, one would typically recline or lie down, closing the eyes and relaxing the body.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "sleeping",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To sleep/TO-SLEEP_silentgesture.mp4"
+        }
+    },
+    "To speak": {
+        "GPT::how to represent To speak using gestures": " only\n\nto represent To speak using gestures only, you would need to use American Sign Language.",
+        "GPT::how to represent To speak using hands": " instead of voice\n\n\n\n\nThere are several ways to represent speaking using hands instead of voice. One way is to use sign language. There are also other ways to represent speaking using hands, such as using a white board or other visual aids.",
+        "GPT::how to represent To speak using human body": " language\n\nSome common ways to represent speaking using human body language are by using hand gestures, facial expressions, and body posture.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "speaking",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/To speak/TO-SPEAK_silentgesture.mp4"
+        }
+    },
+    "To stink": {
+        "GPT::how to represent To stink using gestures": "\n\nThere is no one-size-fits-all answer to this question, as the representation of \"to stink\" using gestures will vary depending on the culture and context in which the gesture is being made. However, some possible gestures that could be used to represent \"to stink\" include wrinkling one's nose in disgust, waving away the smell, or holding one's nose shut.",
+        "GPT::how to represent To stink using hands": "\n\nTo stink using hands, put your fingers to your nose and hold them there.",
+        "GPT::how to represent To stink using human body": " parts\n\nThe smell of someone's body odor can be represented by a nose wrinkling in disgust.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " smelly",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To stink/TO-STINK_silentgesture.mp4"
+        }
+    },
+    "To toast": {
+        "GPT::how to represent To toast using gestures": "\n\nOne way to represent \"to toast\" using gestures would be to make a motion as if you are holding a piece of bread and then moving it towards a heat source.",
+        "GPT::how to represent To toast using hands": "\n\nThe most common way to represent \"to toast\" using hands is to raise a glass in the air and clink it against another glass.",
+        "GPT::how to represent To toast using human body": "\n\nOne could represent \"to toast\" using human body language by holding up a glass and making a toast gesture with it.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "toasting",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To toast/TO-TOAST_silentgesture.mp4"
+        }
+    },
+    "To walk": {
+        "GPT::how to represent To walk using gestures": "\n\nTo walk using gestures, you can use a combination of movement and sign language. For example, you could start by making a fist with your right hand and tapping it against your left palm. Then, you would raise your left hand up and down in a walking motion.",
+        "GPT::how to represent To walk using hands": "?\n\nOne way to represent \"to walk\" using hands is to make a walking motion with your hands.",
+        "GPT::how to represent To walk using human body": " language\n\nIf you were to walk using human body language, you would move your arms and legs in a coordinated manner to propel yourself forward. You would also use your body to balance yourself as you move.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " walking",
+            "Ortega Taxonomy Class": "representing",
+            "video": "./ortega-videos/To walk/TO-WALK_silentgesture.mp4"
+        }
+    },
+    "To wave": {
+        "GPT::how to represent To wave using gestures": "\n\nOne gesture that can represent the word \"wave\" is to raise one arm up from the shoulder and then move it back and forth.",
+        "GPT::how to represent To wave using hands": "\n\nOne way to represent \"to wave\" using hands is to hold one hand up in the air and move it back and forth.",
+        "GPT::how to represent To wave using human body": "\n\nBy waving an arm back and forth.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " waving",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To wave/TO-WAVE_silentgesture.mp4"
+        }
+    },
+    "To whisk": {
+        "GPT::how to represent To whisk using gestures": "\n\nTo whisk using gestures, hold your hands out in front of you with your palms facing down. Move your hands back and forth quickly, as if you were whisking something in a bowl.",
+        "GPT::how to represent To whisk using hands": "\n\nTo whisk using hands, you would hold the whisk in one hand and use the other hand to quickly move the whisk back and forth in a circular motion.",
+        "GPT::how to represent To whisk using human body": "\n\nPut your arm out to the side and move it up and down quickly.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "whisking",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To whisk/TO-WHISK_silentgesture.mp4"
+        }
+    },
+    "To write": {
+        "GPT::how to represent To write using gestures": " 7/20\n\nThere is no one way to represent \"to write using gestures.\" Some possible ways to represent this concept could include writing the word \"gestures\" with accompanying body language, or demonstrating how to write using gestures instead of speech.",
+        "GPT::how to represent To write using hands": " or fingers, as when taking dictation or communicating through sign language\n\nHow to Hand Write Correctly Exercise to Improve Hand Writing - Free handwriting lessons to teach kids and adults how to write alphabets, numbers, sentences, bible school, scriptures, and even their name! Interactive math such as addition, subtraction, multiplication, and division. Spanish worksheets. Games, puzzles, brain teasers, and more. Hand writing\n\nHow to Write with Good Penmanship It's kind of embarrassing to have got terrible handwriting, whether it is printing or cursive handwriting. It just makes you look bad. Bad handwriting could reflect negatively on",
+        "GPT::how to represent To write using human body": " in english\n\nThere's no one answer to this question since there are so many ways to represent the human body in English. Some possible ways include describing the human body using adjectives (e.g. muscular, lean, etc.), listing the different parts of the body (e.g. head, torso, legs, arms, etc.), or using metaphors and similes to compare the body to other objects (e.g. \"My body is like a machine\" or \"I'm as strong as an ox\"). Ultimately, it depends on what you want to convey about the human body and how you want to represent it.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " writing",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/To write/TO-WRITE_silentgesture.mp4"
+        }
+    },
+    "Toothbrush": {
+        "GPT::how to represent Toothbrush using gestures": "\n\nToothbrush can be represented using the gesture of brushing teeth.",
+        "GPT::how to represent Toothbrush using hands": "\n\nToothbrush can be represented using hands by holding one hand up in the air with the fingers spread out. The other hand can be used to mimic brushing the teeth by moving it back and forth across the fingers of the first hand.",
+        "GPT::how to represent Toothbrush using human body": " part\n\nToothbrush can be represented using a human arm. The arm can be extended out with the hand open and fingers pointing down. The toothbrush can then be held in the hand with the bristles pointing down towards the ground.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": " brushing",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Toothbrush/TOOTHBRUSH_silentgesture.mp4"
+        }
+    },
+    "Tree": {
+        "GPT::how to represent Tree using gestures": "\n\nTree can be represented using the gesture of a person growing tall and reaching their arms up high to form a branch.",
+        "GPT::how to represent Tree using hands": "\n\nOne way to represent a tree using hands is to trace the outline of the tree onto one's hand. Another way is to use handprints to make a tree shape.",
+        "GPT::how to represent Tree using human body": "\n\nOne can represent a tree using their body by spreading their arms out to the side to represent the branches of the tree, and their legs to represent the trunk and roots of the tree.",
+        "strategy 1": {
+            "Action Name": " drawing tree shape",
+            "Ortega Taxonomy Class": "drawing",
+            "video": "./ortega-videos/Tree/TREE_silentgesture.mp4"
+        }
+    },
+    "Violin": {
+        "GPT::how to represent Violin using gestures": "\n\nThere is no one way to represent Violin using gestures, as it depends on the interpretation of the music and the performer's individual style. However, some common gestures used to represent Violin include sweeping motions with the arms, shaking the hands, and tapping the feet.",
+        "GPT::how to represent Violin using hands": "\n\nThere is no definitive way to represent Violin using hands, but one common method is to hold one hand in front of the other with the palms facing each other and the fingers interlaced, as if holding a bow. The other hand can be placed on the shoulder or neck of the instrument.",
+        "GPT::how to represent Violin using human body": "\n\nThe human body can represent a Violin in many ways. For example, the neck and head can represent the Violin's scroll, the left arm can represent the Violin's neck, the right arm can represent the Violin's body, and the left hand can represent the Violin's strings.",
+        "strategy 1": {
+            "Action Name": "playing violin",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Violin/VIOLIN_silentgesture.mp4"
+        }
+    },
+    "Wheelchair": {
+        "GPT::how to represent Wheelchair using gestures": "\n\nTo represent a wheelchair using gestures, you can hold your arms out in front of you with your palms down and your fingers extended, then move your arms in a circular motion as if you are rolling a wheelchair.",
+        "GPT::how to represent Wheelchair using hands": " and arms\n\nTo represent a wheelchair using hands and arms, one would extend both arms straight out in front of the body. The left arm would be bent at the elbow so that the hand is pointing up, and the right arm would be bent at the elbow so that the hand is pointing down. The left hand would then grasp the right wrist, and the right hand would grasp the left wrist.",
+        "GPT::how to represent Wheelchair using human body": " language\n\nThere is no one definitive way to represent wheelchair using human body language. Some common ways to represent a wheelchair might include:\n\n-holding both hands out in front of the body with the palms facing downwards, then moving the hands in a circular motion as if turning a wheel\n\n-moving one hand in a circular motion around the other arm, as if turning a wheel\n\n-using both hands to simulate the act of pushing a wheelchair\n\n- placing one hand on the back of the other hand and moving it forwards and backwards, as if pushing a wheelchair",
+        "strategy 1": {
+            "Action Name": " wheeling",
+            "Ortega Taxonomy Class": "acting",
+            "video": "./ortega-videos/Wheelchair/WHEELCHAIR_silentgesture.mp4"
+        }
+    }
+    
+    }
+    

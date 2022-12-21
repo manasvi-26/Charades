@@ -1,0 +1,567 @@
+{
+    "arc": {
+        "GPT::how to represent arc using gestures": "\n\nThere is no one definitive way to represent an arc using gestures. A few possible gesture-based representations of an arc include drawing a curved line in the air with one's hand or drawing a partial circle in the air with one's hand.",
+        "GPT::how to represent arc using hands": "\n\nAn arc can be represented using two hands held together in a curved shape.",
+        "GPT::how to represent arc using human body": "\n\nI don't know.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drawing Semicircle",
+            "Ortega Taxonomy Class": "Drawing",
+            "video": "/metaphorics-videos/arc/video (4).mp4"
+        }
+    },
+    "baby": {
+        "GPT::how to represent baby using gestures": "\n\nThere are many ways to represent a baby using gestures. One way would be to hold your hands close together in front of your chest to represent a small baby. Another way would be to make a cradle with your arms and rocking it back and forth.",
+        "GPT::how to represent baby using hands": "\n\nThe \"rock a baby\" gesture is a way to represent a baby using your hands. To do this, hold your hands together in front of you and then rock them back and forth.",
+        "GPT::how to represent baby using human body": "\n\nA baby can be represented using the human body by illustrating a small person either in utero or outside of the womb. Alternatively, a baby can be represented by a small figure cradled in someone's arms.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "showing baby bump",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/metaphorics-videos/baby/1.mp4"
+        },
+        "strategy 2": {
+            "Action Name": "cradling baby",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/baby/5_3 (online-video-cutter.com) (1) (1).mp4"
+        }
+    },
+    "big": {
+        "GPT::how to represent big using gestures": "\n\nOne way to represent \"big\" using gestures is to open your arms wide.",
+        "GPT::how to represent big using hands": "\n\nOne way to represent big using hands is to make a large circle with them.",
+        "GPT::how to represent big using human body": "\n\nThe smaller the person, the bigger the number they can represent. (This is called scaling.) So, to represent a really big number using a human body, you would need someone really small\u2014maybe a baby or a child.",
+        "POS": "Adjective",
+        "strategy 1": {
+            "Action Name": "Fat Person",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/metaphorics-videos/big/2_5 (online-video-cutter.com) (1) (1).mp4"
+        }
+    },
+    "birth": {
+        "GPT::how to represent birth using gestures": "\n\n birth could be represented using a gesture such as holding up two fingers to represent the date on which someone was born.",
+        "GPT::how to represent birth using hands": "\n\nSigning for \"birth\" can be done a few ways, but one way to do it is to make a fist with both hands and then open them up quickly while keeping the fingers together.",
+        "GPT::how to represent birth using human body": "\n\nThe human body can represent birth in many ways. One way is through the act of giving birth itself. The body of a woman who is giving birth goes through many changes, including an increase in size of the abdomen, as the baby grows inside the womb. The body also produces a substance called relaxin, which helps to loosen the ligaments and joints in preparation for childbirth. The muscles of the uterus also contract during childbirth to help push the baby out.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "Giving Birth",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/birth/7_1 (online-video-cutter.com).mp4"
+        }
+    },
+    "book": {
+        "GPT::how to represent book using gestures": "\n\nRepresenting a book using gestures could involve pretending to open a book, turning pages, and closing the book.",
+        "GPT::how to represent book using hands": "\n\nTo represent a book using hands, hold up both hands with the palms facing each other. Place the thumb and forefinger of each hand together to form a rectangle.",
+        "GPT::how to represent book using human body": "\n\nA book can be represented by a human body in many ways. For example, a person can hold a book in their hands and use their body to create the cover of the book. Additionally, a person can stand with their arms outstretched to create the spine of the book. Finally, a person can lie down on their side to create the pages of the book.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Reading",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/book/3_4_book1.mp4"
+        }
+    },
+    "braid": {
+        "GPT::how to represent braid using gestures": "\n\nOne way to represent a braid is to hold out both arms straight with the palms facing upwards. Then, use one hand to \"braid\" the other hand's fingers by weaving them in and out.",
+        "GPT::how to represent braid using hands": "\n\nThere is no one way to represent a braid using hands, as it can be done in many different ways. Some possible ways to represent a braid using hands include making a twisting motion with the hands, intertwining the fingers of the hands, or weaving the fingers of the hands back and forth.",
+        "GPT::how to represent braid using human body": "\n\nThere is no agreed upon way to represent braid using the human body, but one common method is to use the arms and legs to form the individual strands of the braid, and the torso to twist them together. Another method is to use the hands to form the braid, as if each hand were one strand.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Braiding Hair",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/braid/video (3) (1).mp4"
+        }
+    },
+    "cat": {
+        "GPT::how to represent cat using gestures": "\n\nThere is no one way to represent cat using gestures, as it depends on the specific cat and what gesture best suits its character. Some possible gestures that could represent a cat include curling up in a ball, stretching out, meowing, purring, and scratching.",
+        "GPT::how to represent cat using hands": "?\n\nOne way to represent a cat using your hands is to put your palms together with your fingertips facing out and your fingers pointing up.",
+        "GPT::how to represent cat using human body": "\n\nThere's no one definitive way to represent a cat using human body. Some people might curl up into a ball to represent a cat's sleeping position, while others might get down on all fours and mimic a cat's stalking movements.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Licking Paw",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/metaphorics-videos/cat/9_2 (online-video-cutter.com) (1).mp4"
+        }
+    },
+    "chicken": {
+        "GPT::how to represent chicken using gestures": "\n\nBy representing a chicken using gestures, one could extend both arms outwards from the body, with the palms open and slightly curved downwards, and make a clucking noise with the mouth.",
+        "GPT::how to represent chicken using hands": "\n\nTo represent chicken using hands, first make a claw with your left hand. Then, using your right hand, make a beak shape and peck at the claw.",
+        "GPT::how to represent chicken using human body": "\n\nThere is no one-size-fits-all answer to this question, as the representation of chicken using human body will vary depending on the specific chicken being represented. However, some potential ways to represent chicken using human body include using the arms to represent chicken wings, the legs to represent chicken thighs, the torso to represent a chicken breast, or the head to represent a chicken head.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Flapping elbows",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/metaphorics-videos/chicken/3_3_chicken1.mp4"
+        }
+    },
+    "claw": {
+        "GPT::how to represent claw using gestures": "\n\nOne way to represent a claw using gestures is to curl your hand into a fist and extend your nails outwards.",
+        "GPT::how to represent claw using hands": "\n\nMaking a claw with your hand is a way to represent it.",
+        "GPT::how to represent claw using human body": "\n\nThere is no one definitive way to represent a claw using the human body. However, some possible ways to represent a claw include:\n\n-Holding up the index and middle fingers of one hand and extending the rest of the fingers down, creating the appearance of a claw\n\n-Extending the index and middle fingers of both hands and keeping the rest of the fingers curled inwards, again creating the appearance of a claw\n\n-Using one hand to create the appearance of a claw by curling the fingers inwards and bringing the thumb up and over the top of the hand",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Punching",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/claw/video.mp4"
+        }
+    },
+    "crazy": {
+        "GPT::how to represent crazy using gestures": "\n\nA person could put their hands on their head to represent crazy.",
+        "GPT::how to represent crazy using hands": "\n\nThere is no one way to represent \"crazy\" using hands, as this is a very subjective term. Some possible gestures that could be used to convey this meaning could include holding up one's hands in an shaky or unsteady manner, making rapid and erratic hand movements, or placing one's hands on one's head in a distressed manner.",
+        "GPT::how to represent crazy using human body": " language\n\nThere is no one definitive way to represent crazy using human body language.",
+        "POS": "Adjective",
+        "strategy 1": {
+            "Action Name": "Acting Crazy + Pointing at head",
+            "Ortega Taxonomy Class": "Acting + Ostenisive Cues",
+            "video": "/metaphorics-videos/crazy/1_3 (online-video-cutter.com) (1) (1).mp4"
+        }
+    },
+    "dancer": {
+        "GPT::how to represent dancer using gestures": "\n\nThere is no one way to represent a dancer through gestures, as it depends on the particular dancer's style and movements. However, some ways to represent a dancer through gestures may include pantomiming the dancer's movements, using hand-and-body gestures to imitate the dancer's movements, or using sign language to spell out the word 'dancer.'",
+        "GPT::how to represent dancer using hands": "\n\nOne way to represent a dancer using hands is to make a figure eight with the thumbs and index fingers.",
+        "GPT::how to represent dancer using human body": "\"\n\nThere is no single way to represent a dancer using the human body. Some possible ways include using the arms and legs to create the movements of a dance, or using the whole body to create the shape of a dance.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Dancing",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/dancer/4_4_dancer1.mp4"
+        }
+    },
+    "dead": {
+        "GPT::how to represent dead using gestures": "\n\nThere is no universal gesture to represent death, but common ones include putting your hands over your heart, or making a cross over your chest.",
+        "GPT::how to represent dead using hands": "\n\nThere is no universal way to represent death using hands, as different cultures have different gestural traditions. One common way to represent death using hands is to raise one arm straight up in the air, with the palm open and facing inward, and to let the other arm hang slack at the side.",
+        "GPT::how to represent dead using human body": "\n\nThere is no one way to represent death using the human body. Some popular choices include lying down with eyes closed, or covering the body with a sheet.",
+        "POS": "Adjective",
+        "strategy 1": {
+            "Action Name": "Slitting throat + Acting Dead",
+            "Ortega Taxonomy Class": "Acting + Personification",
+            "video": "/metaphorics-videos/dead/video (9).mp4"
+        }
+    },
+    "dog": {
+        "GPT::how to represent dog using gestures": "\n\nTo gesture a dog, start by placing your hands palm down on a surface in front of you, about shoulder width apart. Next, move your hands outward and away from each other, curving your fingers to create the look of ears, and then quickly snap your hands back together. Finally, wag your fingers up and down to create the look of a tail.",
+        "GPT::how to represent dog using hands": "\n\nOne way to represent a dog using your hands is to make a fist with your left hand and put your right hand over it, making sure that your thumb is sticking up.",
+        "GPT::how to represent dog using human body": "\n\nA human can represent a dog by lying down on all fours with their head down, or by making an \"OK\" sign with their hand and holding it up to their head to look like ears.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Sticking Tongue out with paws",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/metaphorics-videos/dog/video (10).mp4"
+        }
+    },
+    "dream": {
+        "GPT::how to represent dream using gestures": "\n\nThere is no one way to represent dream using gestures, as gestures can be interpreted in many ways. Some possible gestures that could be used to represent dreaming include closing one's eyes, putting one's head in their hands, or lying down.",
+        "GPT::how to represent dream using hands": "\n\nI cannot answer this question.",
+        "GPT::how to represent dream using human body": "\n\nOne could represent a dream using human body parts in a few different ways. For example, one could use gestures to depict different aspects of a dream, such as using a finger to point to one's head to represent thinking hard about something, or using a clenched fist to represent being frustrated. One could also use facial expressions and body language to portray different emotions felt during a dream. For example, if someone had a nightmare, they might frown and look scared, or if someone had a happy dream, they might smile and look content.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": " Sleeping + Thinking ( Cloud)",
+            "Ortega Taxonomy Class": "Acting + Representation",
+            "video": "/metaphorics-videos/dream/video (11).mp4"
+        }
+    },
+    "driver": {
+        "GPT::how to represent driver using gestures": "\n\nThere is no one-size-fits-all answer to this question, as the best way to represent a driver using gestures will vary depending on the context and purpose of the representation. However, some possible gestures that could be used to represent a driver include holding up a steering wheel, making a 'vroom' noise with one's mouth, or enacting the motion of driving a car.",
+        "GPT::how to represent driver using hands": "\n\nA driver can be represented using hands by placing one hand on top of the other and making a steering motion.",
+        "GPT::how to represent driver using human body": "\n\nThe driver can be represented using the human body in many ways. For example, the driver can be represented as a head with arms and legs coming out of it, or the driver can be represented as a torso with a steering wheel in front of it.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drving",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/driver/5_3 (online-video-cutter.com) (2) (1).mp4"
+        }
+    },
+    "farm": {
+        "GPT::how to represent farm using gestures": "\n\nchores, planting, tending animals, harvesting",
+        "GPT::how to represent farm using hands": "\n\nOne way to represent a farm using your hands is to make a fist with your left hand and put your right hand palm up under it, making sure that your fingers are pointing downwards.",
+        "GPT::how to represent farm using human body": "\n\nThe human body can represent a farm in a few ways. One way is to have the head be the farm house, the arms be the crops, and the legs be the animals. Another way is to have the head be the sun, the arms be the rain, and the legs be the earth.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Farming",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/farm/video (12).mp4"
+        }
+    },
+    "fire": {
+        "GPT::how to represent fire using gestures": "\n\nThis is a difficult question. One way to represent fire using gestures would be to hold your hands out in front of you, slightly cupped, and move them back and forth as if they were flames.",
+        "GPT::how to represent fire using hands": "\n\nTo represent fire using hands, extend the fingers and clasp the hands together so that the fingers point upward.",
+        "GPT::how to represent fire using human body": "\n\nOne way to represent fire using the human body is to have someone stand with their arms outstretched and with their hands cupped. Another way is to have someone stand with their arms raised above their head and their hands flaming.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Showing Flames",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/metaphorics-videos/fire/7_2 (online-video-cutter.com) (2).mp4"
+        }
+    },
+    "golf": {
+        "GPT::how to represent golf using gestures": "\n\nThere is no one way to represent golf using gestures, as the game can be played in many different ways. Some common gestures associated with golf include swinging a club, teeing off, and putting.",
+        "GPT::how to represent golf using hands": "\n\nOne hand can be used to represent a golf club, and the other hand can be used to represent a golf ball.",
+        "GPT::how to represent golf using human body": "\n\nUsing the human body to represent golf may be done by showing someone swinging a golf club, or by utilizing the arms and legs to show the different motions involved in a golf swing. Additionally, the torso may be used to show the twisting motion that occurs during a golf swing.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Golfing",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/metaphorics-videos/golf/video (13).mp4"
+        }
+    },
+    "gravity": {
+        "GPT::how to represent gravity using gestures": "\n\nOften, people will use their hands to demonstrate the force of gravity by pretending to pull something down towards the ground.",
+        "GPT::how to represent gravity using hands": "\n\nThere is no one definitive way to represent gravity using hands, as it depends on the specific gravity-related phenomenon being illustrated. Some common gestures used to represent gravity include holding both hands palms-down with fingers extended and pulling them together (to represent the gravitational force), or holding one hand palm-down and pushing it down onto the other hand (to represent the effects of gravity on an object).",
+        "GPT::how to represent gravity using human body": "\n\nThere is no definitive way to represent gravity using the human body, as gravity is an invisible force. However, one way to show the effects of gravity on the human body is to depict someone falling. Another way to represent gravity is to have someone standing on the earth, with the planet's gravity pulling them down.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Pointing Down (Dropping Action)",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/metaphorics-videos/gravity/video (14).mp4"
+        }
+    },
+    "heart": {
+        "GPT::how to represent heart using gestures": "\n\nThere are many different ways to represent heart using gestures. One way is to put your left hand over your heart, with your fingers pointing downwards. Another way is to make a fist with your left hand and put it over your heart.",
+        "GPT::how to represent heart using hands": "\n\nThere is no one way to represent a heart using hands, but one common way is to place the hands together in front of the chest, with the fingertips touching and the palms facing out.",
+        "GPT::how to represent heart using human body": "\n\nThe heart is located in the center of the chest, behind the breastbone. It is a muscle about the size of a fist and pumps blood through the body.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drawing Heart Shape",
+            "Ortega Taxonomy Class": "Drawing",
+            "video": "/metaphorics-videos/heart/9_2 (online-video-cutter.com) (1).mp4"
+        }
+    },
+    "heaven": {
+        "GPT::how to represent heaven using gestures": "\n\nThere is no one way to represent heaven using gestures, as people's conceptions of heaven differ. Some possible gestures that could be used to represent heaven include raising one's arms up to the sky, looking up at the stars, or clasping one's hands together in prayer.",
+        "GPT::how to represent heaven using hands": "\n\nOne way to represent heaven using hands is to make a handprint with an open palm and all fingers pointing upward.",
+        "GPT::how to represent heaven using human body": "\n\nThere is no one definitive way to represent heaven using the human body. Possible ways to represent heaven using the human body include but are not limited to:\n\n-A glowing, radiant figure with wings\n\n-A person surrounded by a bright, white light\n\n-A figure floating on a cloud\n\n-A person surrounded by family or friends who have passed away",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Representing an Angel",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/metaphorics-videos/heaven/2_4 (online-video-cutter.com) (1) (2).mp4"
+        }
+    },
+    "horizon": {
+        "GPT::how to represent horizon using gestures": "\n\nHorizon can be represented using a gesture that is sweeping from one side to the other, or by holding out both arms and keeping them parallel to the ground.",
+        "GPT::how to represent horizon using hands": "\n\n\n\nExtend your arms out to either side, with your palms facing down.",
+        "GPT::how to represent horizon using human body": "\n\nHorizon can be represented using the human body by stretching out the arms to create a line that represents the horizon.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "looking afar",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/metaphorics-videos/horizon/video (15).mp4"
+        }
+    },
+    "horse": {
+        "GPT::how to represent horse using gestures": "\n\n bring your hands up close to your chest, then pretend to gallop them forward",
+        "GPT::how to represent horse using hands": "\n\nTo represent horse using hands, place one hand behind the other, with the palms facing out, and move the front hand up and down.",
+        "GPT::how to represent horse using human body": "\n\nThe human body cannot fully represent a horse. However, somepartial representations might include a person on all fours withtheir legs extended out behind them, or a person wearing a horsehead costume.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "riding",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/horse/3_2_horse1.mp4"
+        }
+    },
+    "i": {
+        "GPT::how to represent i using gestures": "\n\nThere is no one way to represent the letter \"i\" using gestures, as this will depend on the context and on the individual's own personal means of expression. However, some possible gestures that could be used to represent the letter \"i\" could include holding up one finger to represent the number 1, or making a small dot in the air with the index finger.",
+        "GPT::how to represent i using hands": "\n\nIf you are using American Sign Language, you would use the ASL sign for \"I.\"",
+        "GPT::how to represent i using human body": "\n\nThere is no one correct way to do this. Some people might choose to put their hands over their heart to symbolize love, while others might cross their arms to show strength.",
+        "POS": "Pronoun",
+        "strategy 1": {
+            "Action Name": "Pointing at eye",
+            "Ortega Taxonomy Class": "Ostensive Cues",
+            "video": "/metaphorics-videos/i/3_1_1.mp4"
+        },
+        "strategy 2": {
+            "Action Name": "Pointing to oneself",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/metaphorics-videos/i/4_1_i1.mp4"
+        }
+    },
+    "jurasic park": {
+        "GPT::how to represent jurasic park using gestures": "\n\n1. Raise your arms in the air to represent the towering dinosaurs.\n2. Stick your tongue out and hiss to represent the ferocious dinosaurs.\n3. Clench your fists and roar to represent the might of the dinosaurs.",
+        "GPT::how to represent jurasic park using hands": "\n\nThere is no one definitive way to do this. Some possibilities include making a fist with one hand to represent the Jurassic Park logo, or using both hands to create a dinosaurs.",
+        "GPT::how to represent jurasic park using human body": "\n\nJurassic Park can be represented using the human body by using the spine to represent the mountain range, the arms to represent the forests, and the head to represent the actual park.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Acting Dinosour",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/metaphorics-videos/jurasic park/video.mp4"
+        }
+    },
+    "kiss": {
+        "GPT::how to represent kiss using gestures": "\n\nThere is no one answer to this question as everyone has their own way of expressing affection. However, some common ways to express a kiss using gestures include blowing a kiss, holding up a finger to lips and kissing it, or making an \"X\" shape with the lips.",
+        "GPT::how to represent kiss using hands": "\n\nThere is no one definitive way to represent a kiss using hands, but one common gesture is to place one hand beneath the chin of the person being kissed and to raise their face towards the person doing the kissing. The other hand is then placed on the back of the head or neck of the person being kissed.",
+        "GPT::how to represent kiss using human body": "\n\nThere is no one way to represent a kiss using the human body. Some people may put their hands on their partner's face, some may hold their partner close, and some may tilt their head to the side to kissed.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Kissing",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/kiss/video.mp4"
+        }
+    },
+    "kung fu": {
+        "GPT::how to represent kung fu using gestures": "\n\nThere is no one answer to this question, as kung fu involves a variety of different techniques and styles. Some common gestures used to represent kung fu moves include punching, kicking, and blocking.",
+        "GPT::how to represent kung fu using hands": "\n\nThere is no one definitive way to represent kung fu using hands. Various martial arts symbols or gestures may be used to represent different aspects of kung fu. For example, crossed wrists may represent the discipline and focus required to master kung fu, while an open palm may represent the unity between mind and body that is necessary to achieve success in martial arts.",
+        "GPT::how to represent kung fu using human body": "\n\nThere is no one definitive way to do this. Some possible ways include using fists and feet to simulate punches and kicks, using open palms to represent blocking, and using the body to simulate different stances.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Kicking and Chopping",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/kung fu/9_4 (online-video-cutter.com) (1).mp4"
+        }
+    },
+    "mask": {
+        "GPT::how to represent mask using gestures": "\n\nThere is no one way to do this. You could use hand gestures, facial expressions, or body language to represent a mask.",
+        "GPT::how to represent mask using hands": "\n\nThere is no one way to represent a mask using hands, as it depends on the specific mask design. However, one possible way to represent a mask using hands is to hold up both hands in front of the face, with the fingers spread out, to create the eyeholes of the mask.",
+        "GPT::how to represent mask using human body": "\n\nOne way to represent a mask using the human body is to have the person wear the mask. Another way is to hold the mask in front of the person's face.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Putting on Mask",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/metaphorics-videos/mask/video.mp4"
+        }
+    },
+    "movie": {
+        "GPT::how to represent movie using gestures": "\n\nOne way to represent a movie using gestures is to use American Sign Language (ASL).",
+        "GPT::how to represent movie using hands": "\n\none hand can be used to represent a movie reel, and the other hand can be used to represent a projector",
+        "GPT::how to represent movie using human body": "\n\nOne way to represent a movie using the human body is to use gestures and body movement to act out scenes from the film. Another way is to use props and costumes to represent characters and elements from the movie.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Representing rolling camera",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/metaphorics-videos/movie/3_3_movie1.mp4"
+        }
+    },
+    "murder": {
+        "GPT::how to represent murder using gestures": "\n\nOne possible gesture to represent murder is a finger across the throat.",
+        "GPT::how to represent murder using hands": "\n\nShowing someone being strangled with hands.",
+        "GPT::how to represent murder using human body": " parts\n\nA murder can be represented using human body parts in a few different ways. One way is to use a head and a heart, to symbolize killing someone with a weapon. Another way is to use a head and a body, to symbolize a complete murder.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "Stabbing",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/murder/video.mp4"
+        }
+    },
+    "nightmare": {
+        "GPT::how to represent nightmare using gestures": "\n\nOne gesture that could be used to represent a nightmare is covering one's eyes with their hands. This gesture could symbolize that the person is trying to block out a scary or horrifying image.",
+        "GPT::how to represent nightmare using hands": "\n\nOne way to represent nightmare using hands is to make a clawing motion as if you are trying to escape from something.",
+        "GPT::how to represent nightmare using human body": "\n\nThere is no one way to represent a nightmare using the human body, as it is a subjective experience. However, some possible ways to represent a nightmare might include a contorted or twisting body position, clenched fists, a horrified facial expression, or beads of sweat on the forehead.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Sleeping + Getting Scared",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/nightmare/video (16).mp4"
+        }
+    },
+    "pac man": {
+        "GPT::how to represent pac man using gestures": "\n\nOne way to represent Pac-Man using gestures is to make a \"C\" shape with your hand and then put your index finger in the middle of the \"C\" to make the Pac-Man character.",
+        "GPT::how to represent pac man using hands": "\n\nIf you would like to represent Pac-Man using your hands, you can make a circle with your thumbs and index fingers.",
+        "GPT::how to represent pac man using human body": "\n\nThe head could be represented by a ball, with the mouth opened wide to represent Pac-Man's mouth. The body could be represented by a person bent over at the waist, with the arms and legs sticking out to the sides to represent Pac-Man's arms and legs.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Acting Like Pac Man",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/metaphorics-videos/pac man/29_11.mp4"
+        }
+    },
+    "rolling": {
+        "GPT::how to represent rolling using gestures": "\n\nOne way to represent rolling using gestures is to make a fist with one hand and then roll it along the other arm.",
+        "GPT::how to represent rolling using hands": "\n\nThere is no one way to represent rolling using hands, as it can be done in many ways depending on the context. For example, someone could make a rolling motion with their hands to represent the act of rolling a ball. Alternately, someone could make a fist with one hand and use the other hand to roll it around, as if they are rolling a dice.",
+        "GPT::how to represent rolling using human body": "\n\nOne way to represent rolling using the human body is by holding one arm out to the side and keeping the other arm close to the body. The person then tilts their body and head to one side, and then rolls their body forward.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "Rolling",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/rolling/2_1 (online-video-cutter.com) (1).mp4"
+        }
+    },
+    "run": {
+        "GPT::how to represent run using gestures": "\n\nOne possible gesture to represent the word \"run\" would be to hold out both hands in front of you, palms down, and move them back and forth rapidly.",
+        "GPT::how to represent run using hands": "\n\nOne way to represent the run function using your hands is to pretend you are holding a leash attached to a dog. As you jog with the dog, the leash will become slack as the dog runs ahead of you.",
+        "GPT::how to represent run using human body": "\n\n\n\nA person running may use different parts of their body to represent the act of running. For example, they may use their arms to pump their legs, or their legs to move their body forward.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "Running",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/run/7_1 (online-video-cutter.com) (1).mp4"
+        }
+    },
+    "salute": {
+        "GPT::how to represent salute using gestures": "\n\nThere are many ways to represent salute using gestures. Some common gestures include saluting with the hand, fist, or arm; bowing; and shaking hands.",
+        "GPT::how to represent salute using hands": "\n\nTo represent salute using hands, extend the right arm straight out from the shoulder, with the palm down and the fingers extended and pointing up.",
+        "GPT::how to represent salute using human body": "\n\nA salute is traditionally a gesture of respect, performed by extending the arm and pointing the fingertips of the fingers toward the person being greeted.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "Saluting",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/salute/video.mp4"
+        }
+    },
+    "saw": {
+        "GPT::how to represent saw using gestures": "\n\nSaw can be represented using the hand gesture sawing through the air.",
+        "GPT::how to represent saw using hands": "\n\nHolding one hand out in front of you with the fingers extended and the palm facing down, move the hand back and forth in a sawing motion.",
+        "GPT::how to represent saw using human body": "\n\nThe saw can be represented by the human body by having the person stand with their arms out to the side and legs spread apart. The saw can also be represented by the human body by having the person hold their arms out to the side and swing them back and forth.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Cutting",
+            "Ortega Taxonomy Class": "Acting ",
+            "video": "/metaphorics-videos/saw/5_1 (online-video-cutter.com) (1) (1).mp4"
+        },
+        "strategy 2": {
+            "Action Name": " Looking",
+            "Ortega Taxonomy Class": "Acting(Homonym)",
+            "video": "/metaphorics-videos/saw/5_1 (online-video-cutter.com) (2).mp4"
+        }
+    },
+    "sick": {
+        "GPT::how to represent sick using gestures": "\n\nThere is no one gesture that represents sick, since different cultures have different ways of representing this. In some cultures, people might gesture to their stomach or head to indicate that they are feeling sick. In other cultures, people might make a gagging motion or hold their breath to indicate that they are feeling sick.",
+        "GPT::how to represent sick using hands": "\n\nThere is not a universal sign for sick, but one common gesture is to place the back of the hand on the forehead.",
+        "GPT::how to represent sick using human body": " diagram\n\nThere is no one definitive way to represent sick using a human body diagram. However, some possible ways to do so might include using different colors to represent different levels of sickness, or using different symbols to represent different types of sicknesses.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "Puking",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/sick/2_5 (online-video-cutter.com) (2).mp4"
+        }
+    },
+    "skating": {
+        "GPT::how to represent skating using gestures": "\n\nThe gesture for skating would be to pretend like you are gliding on ice. You would start with one leg out in front of you and then push off with the other leg to glide forward.",
+        "GPT::how to represent skating using hands": "\n\nSkating can be represented using hands by holding them out in front of the body with the palms down and the fingers spread apart.",
+        "GPT::how to represent skating using human body": "\n\nOne way to represent skating using the human body is by having a person stand on one leg and raise the other leg behind them. The person can also extend their arms out to their sides to mimic the motion of skating.",
+        "POS": "Verb",
+        "strategy 1": {
+            "Action Name": "Sliding legs",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/skating/video.mp4"
+        }
+    },
+    "sky": {
+        "GPT::how to represent sky using gestures": "\n\nTo represent the sky using gestures, one could raise their arms above their head and spread their fingers out to mimic the look of a clear blue sky.",
+        "GPT::how to represent sky using hands": "\n\nBy holding your hands out in front of you, with your palms open and your fingers spread, you can represent the sky.",
+        "GPT::how to represent sky using human body": "\n\nSky can be represented using the human body by outstretching the arms and legs to create a wide open space.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Pointing Up",
+            "Ortega Taxonomy Class": "Ostensive Cues",
+            "video": "/metaphorics-videos/sky/29_8 (online-video-cutter.com).mp4"
+        }
+    },
+    "sniper": {
+        "GPT::how to represent sniper using gestures": "\n\nOne way to represent a sniper using gestures is to form a gun with your hand and use your index finger and thumb to act as the trigger.",
+        "GPT::how to represent sniper using hands": "\n\nThe index finger and middle finger are extended and pointing, while the ring finger and little finger are bent down into the palm.",
+        "GPT::how to represent sniper using human body": "\n\nA sniper can be represented using a human body by representing the head as the sniper's scope, the arms as the sniper's rifle, and the body as the sniper's hiding place.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Shooting, holding a gun",
+            "Ortega Taxonomy Class": "Representation + Actiing",
+            "video": "/metaphorics-videos/sniper/video (17).mp4"
+        }
+    },
+    "song": {
+        "GPT::how to represent song using gestures": "\n\nThere is no one answer to this question as different songs can be represented using different gestures. Some possible gestures that could be used to represent a song include swaying back and forth, moving hands in the air, or tapping feet.",
+        "GPT::how to represent song using hands": "\n\nOne possible way to represent a song using hands would be to use American Sign Language (ASL).",
+        "GPT::how to represent song using human body": "\n\nThere is no one way to represent a song using the human body. Some people might use their hands and arms to gesture the song's melody, while others might use their whole body to dance to the beat.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Singing",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/song/1_3 (online-video-cutter.com) (4).mp4"
+        }
+    },
+    "stairway": {
+        "GPT::how to represent stairway using gestures": "\n\nOne way to represent a stairway using gestures is to pretend to walk up a set of stairs. Another way to represent a stairway using gestures is to hold up one finger for each step in the stairway.",
+        "GPT::how to represent stairway using hands": "\n\nOne hand can be used to represent the railing of the stairway and the other hand can be used to represent the steps.",
+        "GPT::how to represent stairway using human body": "\n\nOne could represent a stairway using their body by lying on their back with their legs in the air and bending their knees so their feet are flat on the ground. Their arms would be extended above their head, gripping an invisible railing.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Marching Upwards",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/stairway/2_4 (online-video-cutter.com) (2).mp4"
+        }
+    },
+    "time": {
+        "GPT::how to represent time using gestures": "\n\nThere is no universal gesture for representing time, but common gestures include pointing to a watch or clock, holding up fingers to represent hours or minutes, or drawing a circle in the air to represent a clock face.",
+        "GPT::how to represent time using hands": "\n\nThere is no one definitive way to do this. Some common ways include using a watch or clock face, or representing the time using numbers and a chart.",
+        "GPT::how to represent time using human body": "\n\nThere is no one answer to this question as everyone will have their own unique way of representing time using their body. Some common examples could include wearing a watch or other timekeeping device on the wrist, using body movement to depict the passage of time (e.g. slow movements for a longer period of time, faster movements for a shorter period of time), or even simply holding up fingers to indicate how many hours or minutes have passed.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Pointing to Wrist",
+            "Ortega Taxonomy Class": "Ostensive Cues",
+            "video": "/metaphorics-videos/time/3_4_time1.mp4"
+        }
+    },
+    "tiny": {
+        "GPT::how to represent tiny using gestures": "\n\nShrug shoulders to indicate tiny.",
+        "GPT::how to represent tiny using hands": "\n\nBy holding up the index finger and thumb on both hands and bringing them close together.",
+        "GPT::how to represent tiny using human body": "\n\nThere is no definitive answer to this question as different people may interpret the concept of \"tiny\" in different ways. Some possible interpretations could involve a person making themselves as small as possible, or using props such as miniature objects to represent something small.",
+        "POS": "Adjectve",
+        "strategy 1": {
+            "Action Name": "Clicking",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/metaphorics-videos/tiny/4_4_tiny1.mp4"
+        }
+    },
+    "train": {
+        "GPT::how to represent train using gestures": "\n\nAn individual can represent a train using gestures by spreading their arms wide apart and then moving them in a back-and-forth rocking motion.",
+        "GPT::how to represent train using hands": "\n\nThis is a difficult question. One possible answer is to form a fist with one hand and lay the other hand flat on top of it, representing the wheels of the train.",
+        "GPT::how to represent train using human body": "\n\nOne could represent a train using human bodies by having a line of people stand next to each other, with their arms outstretched to the sides.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Choo Choo",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/metaphorics-videos/train/1_3 (online-video-cutter.com) (2) (1).mp4"
+        }
+    },
+    "tv show": {
+        "GPT::how to represent tv show using gestures": "\n\nThere is no one way to represent a TV show using gestures, as it depends on the specific show. Some possible gestures that could be used to represent a TV show include holding up two fingers in a \"V\" formation to represent the antennas of an old TV, or making a frame with your hands to represent a TV screen.",
+        "GPT::how to represent tv show using hands": "\n\nThere is no one way to represent a TV show using hands, as it depends on the particular show. Some possible gestures include making a frame with the hands to represent looking at a TV screen, or using hand motions to imitate the action taking place on the show.",
+        "GPT::how to represent tv show using human body": "\n\nThe simplest way to represent a TV show using the human body would be to have someone stand in front of the television set and pretended to be watching it.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drawing Rectangle",
+            "Ortega Taxonomy Class": "Drawing",
+            "video": "/metaphorics-videos/tv show/1_1 (online-video-cutter.com) (3).mp4"
+        }
+    },
+    "twister": {
+        "GPT::how to represent twister using gestures": "\n\nThere is no one definitive way to represent twister using gestures. Some possible ways to do this could include holding out both arms and twisting the body from side to side, or holding one arm out and spinning around in a circle.",
+        "GPT::how to represent twister using hands": "\n\nOne way to represent twister using hands is to grab opposite elbows with each hand.",
+        "GPT::how to represent twister using human body": "\n\nThere is no real consensus on how to represent twister using the human body, but one common way is to have one person be the spinner, and the rest of the people be the dots on the mat.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Twisting",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/metaphorics-videos/twister/4_3_twister1.mp4"
+        }
+    },
+    "vampire": {
+        "GPT::how to represent vampire using gestures": "\n\nTo represent a vampire using gestures, you can hold up your hands in front of your face with the fingers spread out like claws, representing the vampire's long fingernails. You can also hiss and open your mouth wide to show the vampire's sharp teeth.",
+        "GPT::how to represent vampire using hands": "\n\nOne possible hand gesture to represent a vampire could be to make a Claw hands gesture.",
+        "GPT::how to represent vampire using human body": "\n\nThe easiest way to represent a vampire using the human body is to have someone dress up in all black with a cape. You could also use face paint to create a more ghoulish look.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Biting + Pointing at Neck ",
+            "Ortega Taxonomy Class": "Acting + Ostenisive Cues + Personification",
+            "video": "/metaphorics-videos/vampire/1_1 (online-video-cutter.com) (1) (1).mp4"
+        }
+    },
+    "wedding": {
+        "GPT::how to represent wedding using gestures": "\n\nThe most common way to represent a wedding using gestures is to pretend to put a ring on someone's finger.",
+        "GPT::how to represent wedding using hands": "\n\nA wedding can be represented using hands in a few different ways. One way is to show the rings on the fingers, symbolizing the union of the couple. Another way is to clasp hands together to indicate the coming together of two people.",
+        "GPT::how to represent wedding using human body": "\n\nA wedding can be represented using a human body by two people standing next to each other with their arms around each other. The bride may be wearing a white dress and the groom a suit.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Marching + Putting on Rings",
+            "Ortega Taxonomy Class": "Representation + Acting",
+            "video": "/metaphorics-videos/wedding/5_2 (online-video-cutter.com) (1) (1).mp4"
+        }
+    },
+    "wedding ring": {
+        "GPT::how to represent wedding ring using gestures": "\n\nThere's no one definitive way to represent a wedding ring using gestures, but common ways to do so include holding up the ring finger on the left hand, or making a circle with the thumb and index finger of the right hand and placing it over the left ring finger.",
+        "GPT::how to represent wedding ring using hands": "\n\nThere is no definitive answer to this question, as different people may have different ways of representing a wedding ring using their hands. However, one common way to represent a wedding ring using your hands is to interlace your fingers and place the wedding ring on your index finger. This way, the wedding ring is prominently displayed and it is also easy to see.",
+        "GPT::how to represent wedding ring using human body": "\n\nThere is no definitive answer to this question, as people may wear their wedding rings on different fingers, or even on different parts of their bodies. However, some people may choose to wear their wedding rings on their left ring finger, as this is traditionally seen as the finger on which one wearing a wedding ring.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Pointing to Ring Finger",
+            "Ortega Taxonomy Class": "Ostensive Cues",
+            "video": "/metaphorics-videos/wedding ring/video.mp4"
+        }
+    }
+}

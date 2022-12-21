@@ -1,0 +1,404 @@
+{
+    "Airplane": {
+        "GPT::how to represent Airplane using gestures": "\n\nAn airplane can be represented using a gesture that involves extending both arms outwards from the body, with the palms of the hands facing downwards.",
+        "GPT::how to represent Airplane using hands": "\n\nAn airplane can be represented using hands by making a V-shape with the fingers.",
+        "GPT::how to represent Airplane using human body": "\n\nOne could use their arms and legs to represent the wings of an airplane, and then their body to represent the fuselage.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Flying",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/nemo-videos/Airplane/1 (1).mp4"
+        },
+        "strategy 2": {
+            "Action Name": "Flying",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/nemo-videos/Airplane/2.mp4"
+        }
+    },
+    "Bed": {
+        "GPT::how to represent Bed using gestures": "\n\nThe gesture for bed is made by lying down on the ground with your arms and legs outstretched.",
+        "GPT::how to represent Bed using hands": "\n\nTo represent Bed using hands, extend both arms in front of the body. Next, bend the elbows and rest the hands on the shoulders. Finally, tuck the chin down and close the eyes.",
+        "GPT::how to represent Bed using human body": "\n\nOne could represent a bed using a human body in a few different ways. One way would be to lay down on the ground, with your head on one end of an imaginary bed, and your feet on the other. Another way would be to sit on the ground, with your back against an imaginary headboard, and your legs extended out in front of you as if you were lying in bed.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Sleeping",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Bed/1 (2).mp4"
+        },
+        "strategy 2": {
+            "Action Name": "Drawing flat surface + Sleeping",
+            "Ortega Taxonomy Class": "Drawing + Acting",
+            "video": "/nemo-videos/Bed/2 (1).mp4"
+        }
+    },
+    "Bird": {
+        "GPT::how to represent Bird using gestures": " and sounds\n\nOne way to represent bird using gestures and sounds is to flap your arms up and down like wings and make an \" tweeting\" sound.",
+        "GPT::how to represent Bird using hands": "\n\nOne way to represent a bird using hands is to interlock the fingers of both hands and extend the thumbs.",
+        "GPT::how to represent Bird using human body": "\n\nIf I were to represent a bird using my human body, I would start by making myself as light as possible. I would arch my back and spread my arms out to the sides to create wings. I would tuck my chin down to my chest to create a long, skinny neck. I would then raise one leg up and pointed out behind me to create a tail. Finally, I would make a small chirping sound.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Flying",
+            "Ortega Taxonomy Class": "Personification",
+            "video": "/nemo-videos/Bird/1 (3).mp4"
+        },
+        "strategy 2": {
+            "Action Name": "Flying",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/nemo-videos/Bird/2 (2).mp4"
+        }
+    },
+    "Boat": {
+        "GPT::how to represent Boat using gestures": "\n\nBoat can be represented using gestures by holding out your arms in front of you, palms down, and then moving your hands back and forth in a rowing motion.",
+        "GPT::how to represent Boat using hands": "\n\nOne way to represent a boat using your hands is to put your palms together and then put your fingers together so that they form a point.",
+        "GPT::how to represent Boat using human body": "\n\nA person can represent a boat by lying on their back in a supine position with their arms extended out to the sides. The person's legs can be together or slightly apart, and their feet can be pointed.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Rowing ",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Boat/1 (4).mp4"
+        },
+        "strategy 2": {
+            "Action Name": "Waves ( Water Flowing ) + Drawing trapezium",
+            "Ortega Taxonomy Class": "Ostensive Cues + Drawing",
+            "video": "/nemo-videos/Boat/2 (3).mp4"
+        }
+    },
+    "Book": {
+        "GPT::how to represent Book using gestures": "\n\nFiction books can be represented with a threatening gesture, like holding a book up to someone's face as if to bonk them on the head with it. Non-fiction books can be represented by holding an open book in front of oneself and nodding sagely, as if imparting great knowledge.",
+        "GPT::how to represent Book using hands": "\n\nBook can be represented using hands by holding up all ten fingers and bending them down to form a cover.",
+        "GPT::how to represent Book using human body": "\n\nThere is no one way to represent a book using human body, but some possible ways include:\n\n-using the body as a canvas to paint or draw a book cover\n-dressing up as a character from a book\n-re-enacting a scene from a book\n-holding up signs with key quotes or plot points from a book\n-create a human sculpture in the shape of a book",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Reading ( Flipping through pages)",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/nemo-videos/Book/1 (5).mp4"
+        }
+    },
+    "Bridge": {
+        "GPT::how to represent Bridge using gestures": "\n\nThe game of bridge can be represented using a variety of different gestures. One way to represent bridge is by holding up four fingers on one hand and making a bridge shape with the other hand. Another way to represent bridge is by holding up four fingers on one hand and making a \"V\" shape with the other hand.",
+        "GPT::how to represent Bridge using hands": "\n\nBridge is a card game that can be represented using hands. Each player is dealt a hand of cards, and the players use their hands to bid on the amount of tricks they think they can take. The player who bids the most tricks takes the lead, and play passes clockwise around the table. The player who wins the most tricks takes the pot.",
+        "GPT::how to represent Bridge using human body": "\n\nOne person can be the bridge by lying down on their back with their legs in the air. Another person can then walk across the bridge by stepping on the first person's legs.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drawing pillars and base  + Crossing Bridge ",
+            "Ortega Taxonomy Class": "Drawing + Acting",
+            "video": "/nemo-videos/Bridge/1 (6).mp4"
+        }
+    },
+    "Bus": {
+        "GPT::how to represent Bus using gestures": "\n\nTo represent a bus using gestures, you can extend your arms out in front of you with your palms facing down and your fingers spread apart.",
+        "GPT::how to represent Bus using hands": "\n\nThere is no one universally accepted way to represent a bus using hands. Some common possibilities include making a rectangular shape with the hands, or cupping the hands together and then spreading the fingers apart to form a rectangle.",
+        "GPT::how to represent Bus using human body": "\n\nThe bus can be represented by the human body in many ways. For example, the bus can be thought of as the skeleton, with the wheels being the feet, the engine being the heart, the passengers being the organs, and the driver being the brain.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Draw big rectangle + Driving",
+            "Ortega Taxonomy Class": "Drwaing + Acting",
+            "video": "/nemo-videos/Bus/1 (7).mp4"
+        }
+    },
+    "Car": {
+        "GPT::how to represent Car using gestures": "\n\nThe word \"car\" can be spelled out using American Sign Language (ASL). To do this, form both hands into the letter \"C\" shape, and then bring them together so that the fingers from each hand interlock. Next, slide your hands apart and then back together several times to indicate that a car is moving.",
+        "GPT::how to represent Car using hands": "\n\nCar can be represented using hands by making a \"C\" shape with the left hand and an \"A\" shape with the right hand.",
+        "GPT::how to represent Car using human body": "\n\nCar is a machine that runs on gasoline. It has four round, metal plates that rotate to create forward motion. The operator of the car sits in a seat behind a large, round steering wheel.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Driving",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Car/1 (8).mp4"
+        }
+    },
+    "Castle": {
+        "GPT::how to represent Castle using gestures": "\n\n\n\nA castle can be represented using a few different gestures. Some people might point to the sky to represent the turrets, or make a fist with their thumb sticking out to represent the crenellations on the top of the castle walls. Others might trace the outline of a castle in the air, or make a 'V' sign with their fingers to represent the two towers.",
+        "GPT::how to represent Castle using hands": "\n\nRepresenting a castle using hands can be done by making a fist with one hand and placing the other hand over it, making sure that only the fingers are touching.",
+        "GPT::how to represent Castle using human body": "\n\nCastle can be represented using human body by forming a human pyramid.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drawing big house",
+            "Ortega Taxonomy Class": "Drawing",
+            "video": "/nemo-videos/Castle/1 (9).mp4"
+        }
+    },
+    "Chair": {
+        "GPT::how to represent Chair using gestures": "\n\nOne way to represent chair using gestures is to pretend to sit in an invisible chair. Another way is to make a seat shape with your hands and then sit down in the seat.",
+        "GPT::how to represent Chair using hands": "\n\nTo represent a chair using your hands, start by making a rectangle with your thumbs and index fingers. Then, add two more rectangles on top of the first rectangle to represent the back and seat of the chair. Finally, add two lines coming down from the seat of the chair to represent the legs.",
+        "GPT::how to represent Chair using human body": "\n\nOne could represent a chair using their body by sitting on the ground with their legs out in front of them, and their arms behind them supporting their back.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drawing shape",
+            "Ortega Taxonomy Class": "Drawing",
+            "video": "/nemo-videos/Chair/1 (10).mp4"
+        },
+        "strategy 2": {
+            "Action Name": "DrawingArc + Sitting",
+            "Ortega Taxonomy Class": "Drawing + Acting",
+            "video": "/nemo-videos/Chair/2 (4).mp4"
+        },
+        "strategy 3": {
+            "Action Name": "Sitting",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Chair/3.mp4"
+        }
+    },
+    "Comb": {
+        "GPT::how to represent Comb using gestures": "\n\nTo represent the word \"comb,\" one could form the letter \"C\" with their hand and then run their fingers through their hair.",
+        "GPT::how to represent Comb using hands": "\n\nTo represent the word \"comb\" using only your hands, you will first need to make a fist with your right hand. Next, take your left hand and place it above your right fist so that your left hand is perpendicular to your right fist. Next, open up your left hand so that your fingers are pointing downwards and then slightly wiggle your left hand back-and-forth.",
+        "GPT::how to represent Comb using human body": "\n\nThe human body can represent different parts of a comb. The teeth of the comb can be represented by the fingers, and the handle of the comb can be represented by the arm.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Combing Hair",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Comb/1 (11).mp4"
+        }
+    },
+    "Cow": {
+        "GPT::how to represent Cow using gestures": "\n\nThe horn sign can represent a cow.",
+        "GPT::how to represent Cow using hands": "\n\nA cow can be represented using hands by making a fist with one hand and holding it up to the shoulder. The other hand can be used to represent the head of the cow by making a fist and holding it up to the side of the head.",
+        "GPT::how to represent Cow using human body": "\n\nAn individual representing a cow could stand with their arms held out to their sides, representing the animal's horns. Alternatively, they could crouch down with their arms held close to their body, to represent a cow's squat shape.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Milking a Cow",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Cow/1 (13).mp4"
+        },
+        "strategy 2": {
+            "Action Name": "crawling + Miliking",
+            "Ortega Taxonomy Class": "Personification + Acting",
+            "video": "/nemo-videos/Cow/2 (5).mp4"
+        }
+    },
+    "Crocodile": {
+        "GPT::how to represent Crocodile using gestures": "\n\nTo represent crocodile using gestures, one can extend their arms out wide to imitate the crocodile's mouth, or curl their hands up to their chest to create the crocodile's head and body.",
+        "GPT::how to represent Crocodile using hands": "\n\n depiction of a crocodile using hands would be done by making a fists with both hands and placing them together so that the knuckles of each fist touch. The fingers of each hand would then be spread apart slightly to depict the crocodile's open mouth.",
+        "GPT::how to represent Crocodile using human body": "\n\nTo represent a crocodile using the human body, someone would need to lay on their stomach with their arms extended straight out in front of them. Their legs would be bent at the knees with the feet pointing backwards.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Moving Hands up and down",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/nemo-videos/Crocodile/1.mp4"
+        }
+    },
+    "Cup": {
+        "GPT::how to represent Cup using gestures": "\n\nCup can be represented using a gesture where the hand is cupped around an invisible object.",
+        "GPT::how to represent Cup using hands": "?\n\nCup can be represented using hands by making a 'C' shape with the thumb and first 2 fingers.",
+        "GPT::how to represent Cup using human body": "\n\nCup can be represented using human body by holding both hands together in front of the chest, with the palms touching and the fingers interlaced, and making a small 'cup' shape.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drinking",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Cup/1 (14).mp4"
+        }
+    },
+    "Drums": {
+        "GPT::how to represent Drums using gestures": "\n\nThe most common way to represent drums using gestures is to hold up both hands in fists and then bang them together.",
+        "GPT::how to represent Drums using hands": "\n\nThere are many ways to represent drums using hands, but one of the most common is to use your palms and fingers to create a drumming motion on an imaginary surface.",
+        "GPT::how to represent Drums using human body": "\n\nOne could use their hands and arms to show the various drumming strokes. One could also use their whole body to show the beat by stomping their feet.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drumming",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Drums/1 (15).mp4"
+        }
+    },
+    "Fish": {
+        "GPT::how to represent Fish using gestures": "\n\nA fish may be represented using gestures by making a swimming motion with the hands, or by holding the hands close together and wiggling the fingers.",
+        "GPT::how to represent Fish using hands": "\n\nThere is no one way to represent Fish using hands, as it depends on the type of fish being represented. One way to represent a fish using hands would be to create a web between the thumb and first two fingers of each hand, then wiggle the fingers to simulate the fish swimming.",
+        "GPT::how to represent Fish using human body": "\n\nOne way to represent a fish using the human body is to have someone stand with their arms extended out to the side, bent at the elbows, and wiggling their fingers.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Swimming",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/nemo-videos/Fish/1 (16).mp4"
+        }
+    },
+    "Guitar": {
+        "GPT::how to represent Guitar using gestures": "\n\nThere is no single way to represent guitar using gestures, as the instrument can be played in a variety of ways. One way to represent guitar using gestures might be to hold one hand in the air, representing the neck of the guitar, and use the other hand to simulate the strumming of strings.",
+        "GPT::how to represent Guitar using hands": "\n\nThere is no one way to represent guitar using hands, as everyone may have their own method of playing. However, some basic hand positioning on the fretboard can include holding down chords with the left hand while strumming or picking with the right hand, or placing the right hand in the middle of the fretboard to pick individual notes.",
+        "GPT::how to represent Guitar using human body": "\n\nA guitar can be represented using a human body in a few different ways. One way is to position the body so that the neck of the guitar is where the spine would be, and the headstock is where the head would be. The arms can be positioned to hold the guitar neck and fretboard, and the fingers can be positioned to fret the strings. Another way is to position the body so that the guitar is held like a baby, with the neck and headstock resting on the shoulder and the fretboard and strings facing out.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Playing guitar ( strumming guitar)",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Guitar/1 (17).mp4"
+        }
+    },
+    "Helicopter": {
+        "GPT::how to represent Helicopter using gestures": "\n\n\n\nTo represent a helicopter using gestures, you can raise your arms up in the air and whirl them around in a circle.",
+        "GPT::how to represent Helicopter using hands": "\n\nTo represent a helicopter using your hands, extend your arms out in front of you with your palms facing down. Flap your hands up and down quickly.",
+        "GPT::how to represent Helicopter using human body": " Brainly?\n\nYou could pretend to be a helicopter by spinning your arms around in a circle, or by holding your arms out to the side and moving them up and down.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Rotation of Blades",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/nemo-videos/Helicopter/1.mp4"
+        }
+    },
+    "Horse": {
+        "GPT::how to represent Horse using gestures": "\n\nThe horse can be represented using the hand gesture for a horse. The horse gesture is made by making a fist with your hand and then putting your thumb and first two fingers out to form the shape of a horse's head.",
+        "GPT::how to represent Horse using hands": "\n\nHorse can be represented using hands by making a fist with one hand and holding it behind the other hand, which is open and flattened.",
+        "GPT::how to represent Horse using human body": "\n\nHorse can be represented using human body by trotting in place with hands extended like horse's mane, or by running with hands extended like horse's mane.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Riding",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Horse/1 (20).mp4"
+        }
+    },
+    "Lamp": {
+        "GPT::how to represent Lamp using gestures": "\n\nA lamp can be represented using a gesture by making a \"L\" shape with your hand.",
+        "GPT::how to represent Lamp using hands": "\n\nTo represent a lamp using your hands, pretend to hold a lamp shade in one hand and the base of the lamp in the other.",
+        "GPT::how to represent Lamp using human body": "\n\nLamp can be represented using human body by having a person hold up a light bulb or flashlight in their hand.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drawing a cone + Illumination",
+            "Ortega Taxonomy Class": "Drawing + Representation",
+            "video": "/nemo-videos/Lamp/1 (21).mp4"
+        },
+        "strategy 2": {
+            "Action Name": " Turning on light",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Lamp/2 (6).mp4"
+        }
+    },
+    "Motorcycle": {
+        "GPT::how to represent Motorcycle using gestures": "\n\nThe motorcycle can be represented using a number of gestures, depending on the type of motorcycle. For example, a sportbike can be represented by making a fist with the thumb extended and the other fingers curled in, or by holding the fist out with the thumb extended and the other fingers curled in. A cruiser motorcycle can be represented by making a fist with the thumb extended and the other fingers curled in, or by holding the fist out with the thumb extended and the other fingers curled in.",
+        "GPT::how to represent Motorcycle using hands": "\n\nOne hand can be used to represent the handlebars of a motorcycle and the other hand can be used to represent the wheels of the motorcycle.",
+        "GPT::how to represent Motorcycle using human body": "\n\nThe human body can represent a motorcycle in many ways. For example, the legs can be used to represent the motorcycle's wheels, and the arms can be used to represent the motorcycle's handlebars. Additionally, the torso can be used to represent the motorcycle's seat, and the head can be used to represent the motorcycle's headlight.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Riding a Motorcycle",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Motorcycle/L1011_1201808171404401245_skel.mp4"
+        }
+    },
+    "Pencil": {
+        "GPT::how to represent Pencil using gestures": "\n\nTo represent pencil using gestures, you can hold up an index finger and move it back and forth as if you were writing.",
+        "GPT::how to represent Pencil using hands": "\n\n\n\nTo represent pencil using hands, extend both hands in front of you with your palms facing down. Place the index fingers and thumbs of each hand together so they form a rectangle.",
+        "GPT::how to represent Pencil using human body": "?\n\nA pencil can be represented using a human body by holding the pencil in between the thumb and first finger with the other fingers extended.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drawing line + Writing",
+            "Ortega Taxonomy Class": "Drawing + Acting",
+            "video": "/nemo-videos/Pencil/1 (22).mp4"
+        },
+        "strategy 2": {
+            "Action Name": "Writing",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Pencil/2 (7).mp4"
+        }
+    },
+    "Piano": {
+        "GPT::how to represent Piano using gestures": "\n\nThere is no one definitive way to represent piano using gestures, as different people may have different ways of understanding and performing the music. However, some ways to represent piano using gestures may include using hand motions to show the movement of the keyboard, or using body language to show the rhythm and flow of the music.",
+        "GPT::how to represent Piano using hands": "\n\nPiano can be represented using hands by holding out both hands in front of you with your palms facing up. The right hand should be slightly higher than the left hand.",
+        "GPT::how to represent Piano using human body": "\n\nOne could represent the piano using their human body by laying on their back with their arms out to the side in order to represent the keyboard of the piano.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Playing piano",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Piano/1 (23).mp4"
+        }
+    },
+    "Scissors": {
+        "GPT::how to represent Scissors using gestures": "\n\nusing the index and middle fingers, hold them together and extend them outwards, resemblng the blades of scissors",
+        "GPT::how to represent Scissors using hands": "\n\nTo represent scissors using hands, make a V with your index and middle finger and open and close your hand like you are cutting something.",
+        "GPT::how to represent Scissors using human body": "\n\nOne arm can be extended out with the hand bent at the wrist to form a 90 degree angle. The fingers should be extended and slightly separated to form the blades of the scissors.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Cutting",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/nemo-videos/Scissors/1 (24).mp4"
+        }
+    },
+    "Spoon": {
+        "GPT::how to represent Spoon using gestures": "\n\nOne way to represent \"spoon\" using gestures is to make a scooping motion with one hand.",
+        "GPT::how to represent Spoon using hands": "\n\nBy making a closed fist with the thumb extended and the index finger and middle finger pointing downwards.",
+        "GPT::how to represent Spoon using human body": "\n\nBy holding an object in one's hand and bringing it to one's mouth.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Scooping",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Spoon/1 (25).mp4"
+        }
+    },
+    "Stairs": {
+        "GPT::how to represent Stairs using gestures": "\n\nTo represent stairs using gestures, you can use a step-like gesture with your hands or feet.",
+        "GPT::how to represent Stairs using hands": "\n\nTo represent stairs using hands, each step is represented by a raised hand, with the fingers pointing up. The number of steps is determined by the number of raised hands.",
+        "GPT::how to represent Stairs using human body": "\n\nOne way to represent stairs using the human body is to have someone lie down on their back with their legs in the air. Place one hand on their stomach and the other on their chest. Next, have them slowly lower their legs down as if they were walking down stairs.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Wiggling Fingers",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/nemo-videos/Stairs/1 (26).mp4"
+        },
+        "strategy 2": {
+            "Action Name": "Walking up the stairs",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Stairs/2 (8).mp4"
+        }
+    },
+    "Table": {
+        "GPT::how to represent Table using gestures": "\n\nThere is no one definitive way to represent a table using gestures. Some common possibilities include:\n\n-outline the shape of a rectangle with your hands to represent a table\n-make a 'T' shape with your hands to represent a table\n-place your palms down on a flat surface and move them apart to represent a table",
+        "GPT::how to represent Table using hands": "\n\nOne way to represent a table using your hands is to pretend that your hands are the legs of the table and your fingers are the tabletop.",
+        "GPT::how to represent Table using human body": "\n\nA person's head can represent the header or title of a table, with the person's arms representing the left and right sides of the table. The person's legs can represent the bottom of the table.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drawing shape",
+            "Ortega Taxonomy Class": "Drawing",
+            "video": "/nemo-videos/Table/1 (27).mp4"
+        }
+    },
+    "Toothbrush": {
+        "GPT::how to represent Toothbrush using gestures": " art\n\nOne way to represent a toothbrush using gestures art might be to pretend to hold a toothbrush in one hand and then move it up and down in a brushing motion.",
+        "GPT::how to represent Toothbrush using hands": "\n\nToothbrush can be represented using hands by making a \"T\" shape with the index finger and thumb.",
+        "GPT::how to represent Toothbrush using human body": "\n\nA toothbrush can be represented using a human body by holding the toothbrush in the hand and using the arm to move the brush back and forth.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Brushing",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Toothbrush/1 (28).mp4"
+        }
+    },
+    "Train": {
+        "GPT::how to represent Train using gestures": "\n\nA person can represent a train using gestures byE putting their hands together in a circular motion to represent the wheels of the train, and then sweeping their hands outward to represent the long body of the train.",
+        "GPT::how to represent Train using hands": "\n\nOne way to represent a train using hands is to make a fist with one hand and hold it parallel to the ground. Place the other hand flat against the first fist and move it back and forth to symbolize the motion of a train.",
+        "GPT::how to represent Train using human body": "\n\nTrain can be represented using a human body by having one person be the locomotive engine and the other people be the cars.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Wheels + Choo Choo",
+            "Ortega Taxonomy Class": "Representation",
+            "video": "/nemo-videos/Train/1 (29).mp4"
+        }
+    },
+    "Triangle": {
+        "GPT::how to represent Triangle using gestures": "\n\nOne way to represent a triangle using gestures is to hold up three fingers.",
+        "GPT::how to represent Triangle using hands": "\n\nThere is no one way to represent a triangle using hands, but one way to do it is by holding up three fingers and spreading them out to form the sides of the triangle.",
+        "GPT::how to represent Triangle using human body": "\n\nOne person could stand with their arms out to the side and touch fingertips with the person next to them to form the triangle.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Drawing traingle",
+            "Ortega Taxonomy Class": "Drawing",
+            "video": "/nemo-videos/Triangle/triangle.avi"
+        }
+    },
+    "Trumpet": {
+        "GPT::how to represent Trumpet using gestures": "\n\nThere is no one way to gesturally represent trumpet, as it can be depicted in many ways. Some possible gestures include miming the act of playing the instrument, holding an imaginary trumpet to the lips, or making a shape with the hands that resembles the shape of a trumpet.",
+        "GPT::how to represent Trumpet using hands": "\n\nForm your hand into a \"C\" shape. This will be the bell of the trumpet. Put your fingers along the ridge of the \"C\" so that your thumb is on top. Pretend to blow into the space formed by your thumb and fingers.",
+        "GPT::how to represent Trumpet using human body": "\n\nI Trumpet is a long, cylindrical brass instrument with a flared bell at one end. It is one of the most common instruments in the brass family.\n\nTo represent a Trumpet using the human body, you could use two arms to form the long, cylindrical shape of the instrument, and then use one hand to form the flared bell at the end.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Playing trumpet",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Trumpet/1 (30).mp4"
+        }
+    },
+    "Violin": {
+        "GPT::how to represent Violin using gestures": "\n\nViolin can be represented using a number of different gestures, depending on the context in which it is being used. For example, in a musical context, violin can be represented by gestures such as holding an invisible bow, or making cradling motions with the arms to represent holding the instrument. In a more general context, violin can be represented by making a 'V' shape with the fingers, or by drawing an imaginary bow across the palm of the hand.",
+        "GPT::how to represent Violin using hands": "\n\nThe bow is held in the right hand and the strings are stopped by the left hand. The fingers of the left hand are placed behind the neck of the instrument and press the strings down on the fingerboard to create different pitches.",
+        "GPT::how to represent Violin using human body": "\n\nA person playing the violin may hold the instrument in the lower neck area with the left hand, and bow with the right hand. The right foot is placed on a foot rest, and the left hand supports the weight of the instrument on the player's shoulder.",
+        "POS": "Noun",
+        "strategy 1": {
+            "Action Name": "Playing Violin",
+            "Ortega Taxonomy Class": "Acting",
+            "video": "/nemo-videos/Violin/triangle.mp4"
+        }
+    }
+}
